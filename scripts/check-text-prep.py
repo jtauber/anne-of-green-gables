@@ -18,7 +18,7 @@ def check1(f1, f2, start):
     # these regex substitution convert the custom encoded `text-prep` files to
     # what should be in the raw file
     x2 = re.sub(r"\\u200B", "\u200B", x2)  # `\u200B` should be an actual U+200B
-    x2 = re.sub(r" // ", "\n", x2)  # ` // ` should be an actual \n
+    x2 = re.sub(r"\\n", "\n", x2)  # `\n` should be an actual \n
     x2 = re.sub(r"\n\^", "", x2)  # a `^` after newline deletes the preceding newline
     x2 = re.sub(r"{[^}]+}", "", x2)  # anything between `{ }` is dropped
 
@@ -61,8 +61,8 @@ def check2(f1, f2):
         l1 = re.sub(r"\\u200B", "", l1)
         l2 = re.sub(r"\\u200B", "", l2)
 
-        l1 = re.sub(" // ", "", l1)
-        l2 = re.sub(" // ", "", l2)
+        l1 = re.sub(r"\\n", "", l1)
+        l2 = re.sub(r"\\n", "", l2)
 
         l1 = re.sub(r"\^", "", l1)
         l2 = re.sub(r"\^", "", l2)
