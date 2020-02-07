@@ -20,9 +20,8 @@ def check1(f1, f2, start):
     x2 = re.sub(r"\\u200B", "\u200B", x2)  # `\u200B` should be an actual U+200B
     x2 = re.sub(r"\\n", "\n", x2)  # `\n` should be an actual \n
     x2 = re.sub(r"\n\^", "", x2)  # a `^` after newline deletes the preceding newline
-    x2 = re.sub(r"{[^}]+}", "", x2)  # anything between `{ }` is dropped
 
-    x2 = re.sub(r"<([^/]+)/([^>]*)>", r"\1", x2)  # `<foo/bar>` is replaced with just foo
+    x2 = re.sub(r"<([^/]*)/([^>]*)>", r"\1", x2)  # `<foo/bar>` is replaced with just foo
 
     # x2 now represents what x1 _should_ be
     # we compare char by char, though so we can identifier the location of mismatches
@@ -56,7 +55,7 @@ def check2(f1, f2):
         o2 = l2
 
         # drop the stuff in the raw text we don't consider part of the
-        # transformed text, insert stuff in `{ }` and do the </> substitutions
+        # transformed text and do the </> substitutions
 
         l1 = re.sub(r"\\u200B", "", l1)
         l2 = re.sub(r"\\u200B", "", l2)
@@ -67,11 +66,8 @@ def check2(f1, f2):
         l1 = re.sub(r"\^", "", l1)
         l2 = re.sub(r"\^", "", l2)
 
-        l1 = re.sub("{([^}]+)}", r"\1", l1)
-        l2 = re.sub("{([^}]+)}", r"\1", l2)
-
-        l1 = re.sub(r"<([^/]+)/([^>]*)>", r"\2", l1)
-        l2 = re.sub(r"<([^/]+)/([^>]*)>", r"\2", l2)
+        l1 = re.sub(r"<([^/]*)/([^>]*)>", r"\2", l1)
+        l2 = re.sub(r"<([^/]*)/([^>]*)>", r"\2", l2)
 
         # ignore case for now
 
