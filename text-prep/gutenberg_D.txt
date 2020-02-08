@@ -903,15 +903,15 @@ CHAPTER I. Mrs. Rachel Lynde is Surprised
 \n“You’d better muse over your lessons and sums,” said Marilla, concealing\n{> }her delight at this development of the situation. “If you’re going back\n{> }to school I hope we’ll hear no more of breaking slates over people’s\n{> }heads and such carryings on. Behave yourself and do just what your\n{> }teacher tells you.”
 \n“I’ll try to be a model pupil,” agreed Anne dolefully. “There won’t be\n{> }much fun in it, I expect. Mr. Phillips said Minnie Andrews was a model\n{> }pupil and there isn’t a spark of imagination or life in her. She is\n{> }just dull and poky and never seems to have a good time. But I feel so\n{> }depressed that perhaps it will come easy to me now. I’m going round by\n{> }the road. I couldn’t bear to go by the Birch Path all alone. I should\n{> }weep bitter tears if I did.”
 \nAnne was welcomed back to school with open arms. Her imagination had\n{> }been sorely missed in games, her voice in the singing and her dramatic\n{> }ability in the perusal aloud of books at dinner hour. Ruby Gillis\n{> }smuggled three blue plums over to her during testament reading; Ella May\n{> }MacPherson gave her an enormous yellow pansy cut from the covers of a\n{> }floral catalogue--a species of desk decoration much prized in Avonlea\n{> }school. Sophia Sloane offered to teach her a perfectly elegant new\n{> }pattern of knit lace, so nice for trimming aprons. Katie Boulter gave\n{> }her a perfume bottle to keep slate water in, and Julia Bell copied\n{> }carefully on a piece of pale pink paper scalloped on the edges the\n{> }following effusion:
-\n\n  When twilight drops her curtain down
-  And pins it with a star
-  Remember that you have a friend
-  Though she may wander far.
+\n\n{>  }  When twilight drops her curtain down
+{>  }  And pins it with a star
+{>  }  Remember that you have a friend
+{>  }  Though she may wander far.
 \n\n“It’s so nice to be appreciated,” sighed Anne rapturously to Marilla\n{> }that night.
 \nThe girls were not the only scholars who “appreciated” her. When Anne\n{> }went to her seat after dinner hour--she had been told by Mr. Phillips to\n{> }sit with the model Minnie Andrews--she found on her desk a big luscious\n{> }“strawberry apple.” Anne caught it up all ready to take a bite when she\n{> }remembered that the only place in Avonlea where strawberry apples grew\n{> }was in the old Blythe orchard on the other side of the Lake of Shining\n{> }Waters. Anne dropped the apple as if it were a red-hot coal and\n{> }ostentatiously wiped her fingers on her handkerchief. The apple lay\n{> }untouched on her desk until the next morning, when little Timothy\n{> }Andrews, who swept the school and kindled the fire, annexed it as one\n{> }of his perquisites. Charlie Sloane’s slate pencil, gorgeously bedizened\n{> }with striped red and yellow paper, costing two cents where ordinary\n{> }pencils cost only one, which he sent up to her after dinner hour, met\n{> }with a more favorable reception. Anne was graciously pleased to accept\n{> }it and rewarded the donor with a smile which exalted that infatuated\n{> }youth straightway into the seventh heaven of delight and caused him to\n{> }make such fearful errors in his dictation that Mr. Phillips kept him in\n{> }after school to rewrite it.
 \nBut as,
-\n  The Caesar’s pageant shorn of Brutus’ bust
-  Did but of Rome’s best son remind her more,
+\n{>  }  The Caesar’s pageant shorn of Brutus’ bust
+{>  }  Did but of Rome’s best son remind her more,
 \nso the marked absence of any tribute or recognition from Diana Barry who\n{> }was sitting with Gertie Pye embittered Anne’s little triumph.
 \n“Diana might just have smiled at me once, I think,” she mourned to\n{> }Marilla that night. But the next morning a note most fearfully and\n{> }wonderfully twisted and folded, and a small parcel were passed across to\n{> }Anne.
 \nDear Anne (ran the former)

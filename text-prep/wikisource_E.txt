@@ -534,10 +534,8 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \n"You'll have to go down and call for Mrs. Lynde, Anne," she said. "She'll see that you get into the right class. Now, mind you behave yourself properly. Stay to preaching afterwards and ask Mrs. Lynde to show you our pew. Here's a cent for collection. Don't stare at people and don't fidget. I shall expect you to tell me the text when you come home."
 \nAnne started off irreproachably, arrayed in the stiff black-and-white sateen, which, while decent as regards length and certainly not open to the charge of skimpiness, contrived to emphasize every corner and angle of her thin figure. Her hat was a little, flat, glossy, new sailor, the extreme plainness of which had likewise much disappointed Anne, who had permitted herself secret visions of ribbon and flowers. The latter, however, were supplied before \u200BAnne reached the main road, for, being confronted half-way down the lane with a golden frenzy of wind-stirred buttercups and a glory of wild roses, Anne promptly and liberally garlanded her hat with a heavy wreath of them. Whatever other people might have thought of the result it satisfied Anne, and she tripped gaily down the road, holding her ruddy head with its decoration of pink and yellow very proudly.
 \nWhen she reached Mrs. Lynde's house she found that lady gone. Nothing daunted Anne proceeded onward to the church alone. In the porch she found a crowd of little girls, all more or less gaily attired in whites and blues and pinks, and all staring with curious eyes at this stranger in their midst, with her extraordinary head adornment. Avonlea little girls had already heard queer stories about Anne; Mrs. Lynde said she had an awful temper; Jerry Buote, the hired boy at Green Gables, said she talked all the time to herself or to the trees and flowers like a crazy girl. They looked at her and whispered to each other behind their quarterlies. Nobody made any friendly advances, then or later on when the opening exercises were over and Anne found herself in Miss Rogerson's class.
-\nMiss Rogerson was a middle-aged lady who had taught a Sunday-school class for twenty years. Her method of teaching was to ask the printed questions from the quarterly and look sternly over its edge at the particular little girl she thought ought to answer \u200B
-
-\n\n\n\n"THEY LOOKED AT HER AND WHISPERED TO EACH OTHER."
-\n\n\n\u200B \u200Bthe question. She looked very often at Anne, and Anne, thanks to Marilla's drilling, answered promptly; but it may be questioned if she understood very much about either question or answer. She did not think she liked Miss Rogerson, and she felt very miserable; every other little girl in the class had puffed sleeves. Anne felt that life was really not worth living without puffed sleeves.
+\nMiss Rogerson was a middle-aged lady who had taught a Sunday-school class for twenty years. Her method of teaching was to ask the printed questions from the quarterly and look sternly over its edge at the particular little girl she thought ought to answer \u200B\n\n{\n\n\n\n"THEY LOOKED AT HER AND WHISPERED TO EACH OTHER."\n\n\n\n\u200B \u200B>}the question. She looked very often at Anne, and Anne, thanks to Marilla's drilling, answered promptly; but it may be questioned if she understood very much about either question or answer.
+^{ >}She did not think she liked Miss Rogerson, and she felt very miserable; every other little girl in the class had puffed sleeves. Anne felt that life was really not worth living without puffed sleeves.
 \n"Well, how did you like Sunday-school?" Marilla wanted to know when Anne came home. Her wreath having faded, Anne had discarded it in the lane, so Marilla was spared the knowledge of that for a time.
 \n"I didn't like it a bit. It was horrid."
 \n"Anne Shirley!" said Marilla rebukingly.
@@ -551,12 +549,10 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \n"Oh, yes; and I answered a lot of questions. Miss Rogerson asked ever so many. I don't think it was fair for her to do all the asking. There were lots I wanted to ask her, but I didn't like to because I didn't think she was a kindred spirit. Then all \u200Bthe other little girls recited a paraphrase. She asked me if I knew any. I told her I didn't, but I could recite, 'The Dog at His Master's Grave' if she liked. That's in the Third Royal Reader. It isn't a really truly religious piece of poetry, but it's so sad and melancholy that it might as well be. She said it wouldn't do and she told me to learn the nineteenth paraphrase for next Sunday. I read it over in church afterwards and it's splendid. There are two lines in particular that just thrill me.
 \n"'Quick as the slaughtered squadrons fell
 \nIn Midian's evil day.'
-
-\n\n\n\nI don't know what 'squadrons' means nor 'Midian,' either, but it sounds so tragical. I can hardly wait until next Sunday to recite it. I'll practise it all the week. After Sunday-school I asked Miss Rogerson—because Mrs. Lynde was too far away—to show me your pew. I sat just as still as I could and the text was Revelations, third chapter, second and third verses. It was a very long text. If I was a minister I'd pick the short, snappy ones. The sermon was awfully long, too. I suppose the minister had to match it to the text. I didn't think he was a bit interesting. The trouble with him seems to be that he hasn't enough imagination. I didn't listen to him very much. I just let my thoughts run and I thought of the most surprising things."
+\n\n\n\n\nI don't know what 'squadrons' means nor 'Midian,' either, but it sounds so tragical. I can hardly wait until next Sunday to recite it. I'll practise it all the week. After Sunday-school I asked Miss Rogerson—because Mrs. Lynde was too far away—to show me your pew. I sat just as still as I could and the text was Revelations, third chapter, second and third verses. It was a very long text. If I was a minister I'd pick the short, snappy ones. The sermon was awfully long, too. I suppose the minister had to match it to the text. I didn't think he was a bit interesting. The trouble with him seems to be that he hasn't enough imagination. I didn't listen to him very much. I just let my thoughts run and I thought of the most surprising things."
 \nMarilla felt helplessly that all this should be sternly reproved, but she was hampered by the \u200Bundeniable fact that some of the things Anne had said, especially about the minister's sermons and Mr. Bell's prayers, were what she herself had really thought deep down in her heart for years, but had never given expression to. It almost seemed to her that those secret, unuttered, critical thoughts had suddenly taken visible and accusing shape and form in the person of this outspoken morsel of neglected humanity.
 
-\n\n\n\n\u200B CHAPTER XII
-\n\n\nA SOLEMN VOW AND PROMISE
+\n\n\n\n\u200B CHAPTER XII{>. }\n\n\n\nA SOLEMN VOW AND PROMISE
 
 \n\n\n\nIt was not until the next Friday that Marilla heard the story of the flower-wreathed hat. She came home from Mrs. Lynde's and called Anne to account.
 \n"Anne, Mrs. Rachel says you went to church last Sunday with your hat rigged out ridiculous with roses and buttercups. What on earth put you up to such a caper? A pretty-looking object you must have been!"
@@ -606,8 +602,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \n"Oh, no, indeed, I won't," said Anne eagerly. "I'll just eat one to-night, Marilla. And I can give Diana half of them, can't I? The other half will taste twice as sweet to me if I give some to her. It's delightful to think I have something to give her."
 \n"I will say it for the child," said Marilla when \u200BAnne had gone to her gable, "she isn't stingy. I'm glad, for of all faults I detest stinginess in a child. Dear me, it's only three weeks since she came, and it seems as if she'd been here always. I can't imagine the place without her. Now, don't be looking I-told-you-so, Matthew. That's bad enough in a woman, but it isn't to be endured in a man. I'm perfectly willing to own up that I'm glad I consented to keep the child and that I'm getting fond of her, but don't you rub it in, Matthew Cuthbert."
 
-\n\n\n\n\u200B CHAPTER XIII
-\n\n\nTHE DELIGHTS OF ANTICIPATION
+\n\n\n\n\u200B CHAPTER XIII{>. }\n\n\n\nTHE DELIGHTS OF ANTICIPATION
 
 \n\n\n\n"It's time Anne was in to do her sewing," said Marilla, glancing at the clock and then out into the yellow August afternoon where everything drowsed in the heat. "She stayed playing with Diana more than half an hour more'n I gave her leave to; and now she's perched out there on the woodpile talking to Matthew, nineteen to the dozen, when she knows perfectly well that she ought to be at her work. And of course he's listening to her like a perfect ninny. I never saw such an infatuated man. The more she talks and the odder the things she says, the more he's delighted evidently. Anne Shirley, you come right in here this minute, do you hear me!"
 \nA series of staccato taps on the west window brought Anne flying in from the yard, eyes shining, cheeks faintly flushed with pink, unbraided hair streaming behind her in a torrent of brightness.
@@ -633,8 +628,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \nAnne had been smitten with delighted admiration when she first saw that brooch.
 \n"Oh, Marilla, it's a perfectly elegant brooch. I don't know how you can pay attention to the sermon or the prayers when you have it on. I couldn't, I know. I think amethysts are just sweet. They are what I used to think diamonds were like. Long ago, before I had ever seen a diamond, I read about them and I tried to imagine what they would be like. I \u200Bthought they would be lovely glimmering purple stones. When I saw a real diamond in a lady's ring one day I was so disappointed I cried. Of course, it was very lovely but it wasn't my idea of a diamond. Will you let me hold the brooch for one minute, Marilla? Do you think amethysts can be the souls of good violets?"
 
-\n\n\n\n\u200B CHAPTER XIV
-\n\n\nANNE'S CONFESSION
+\n\n\n\n\u200B CHAPTER XIV{>. }\n\n\n\nANNE'S CONFESSION
 
 \n\n\n\nOn the Monday evening before the picnic Marilla came down from her room with a troubled face.
 \n"Anne," she said to that small personage, who was shelling peas by the spotless table and singing "Nelly of the Hazel Dell" with a vigour and expression that did credit to Diana's teaching, "did you see anything of my amethyst brooch? I thought I stuck it in my pincushion when I came home from church yesterday evening, but I can't find it anywhere."
@@ -681,7 +675,8 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \n"You needn't plead, Anne. You are not going to the picnic and that's final. No, not a word."
 \nAnne realized that Marilla was not to be moved. She clasped her hands together, gave a piercing shriek, and then flung herself face downwards on the bed, crying and writhing in an utter abandonment of disappointment and despair.
 \n"For the land's sake!" gasped Marilla, hastening from the room. "I believe the child is crazy. No child in her senses would behave as she does. If she isn't she's utterly bad. Oh dear, I'm afraid Rachel was right from the first. But I've put my hand to the plough and I won't look back."
-\nThat was a dismal morning. Marilla worked fiercely and scrubbed the porch floor and the dairy shelves when she could find nothing else to do. Neither the shelves nor the porch needed it—but Marilla did. Then she went out and raked the yard. When dinner was ready she went to the stairs and called Anne. A tear-stained face appeared, looking tragically over the banisters.
+\nThat was a dismal morning. Marilla worked fiercely and scrubbed the porch floor and the dairy shelves when she could find nothing else to do. Neither the shelves nor the porch needed it—but Marilla did. Then she went out and raked the yard.
+^{ >}When dinner was ready she went to the stairs and called Anne. A tear-stained face appeared, looking tragically over the banisters.
 \n"Come down to your dinner, Anne."
 \n"I don't want any dinner, Marilla," said Anne sobbingly. "I couldn't eat anything. My heart is broken. You'll feel remorse of conscience some day, I expect, for breaking it, Marilla, but I forgive you. \u200BRemember when the time comes that I forgive you. But please don't ask me to eat anything, especially boiled pork and greens. Boiled pork and greens are so unromantic when one is in affliction."
 \nExasperated Marilla returned to the kitchen and poured out her tale of woe to Matthew, who, between his sense of justice and his unlawful sympathy with Anne, was a miserable man.
@@ -707,8 +702,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \nThat evening Marilla told the whole story to Matthew over her stocking basket.
 \n"I'm willing to own up that I made a mistake," she concluded candidly, "but I've learned a lesson. I have to laugh when I think of Anne's 'confession,' although I suppose I shouldn't for it really was a falsehood. But it doesn't seem as bad as the other \u200Bwould have been, somehow, and anyhow I'm responsible for it. That child is hard to understand in some respects. But I believe she'll turn out all right yet. And there's one thing certain, no house will ever be dull that she's in."
 
-\n\n\n\n\u200B CHAPTER XV
-\n\n\nA TEMPEST IN THE SCHOOL TEAPOT
+\n\n\n\n\u200B CHAPTER XV{>. }\n\n\n\nA TEMPEST IN THE SCHOOL TEAPOT
 
 \n\n\n\n"What a splendid day!" said Anne, drawing a long breath. "Isn't it good just to be alive on a day like this? I pity the people who aren't born yet for missing it. They may have good days, of course, but they can never have this one. And it's splendider still to have such a lovely way to go to school by, isn't it?"
 \n"It's a lot nicer than going round by the road; that is so dusty and hot," said Diana practically, peeping into her dinner basket and mentally calculating if the three juicy, toothsome, raspberry tarts reposing there were divided among ten girls how many bites each girl would have.
@@ -750,11 +744,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \nShe did more than look. She sprang to her feet, her bright fancies fallen into cureless ruin. She flashed one indignant glance at Gilbert from eyes whose angry sparkle was swiftly quenched in equally angry tears.
 \n"You mean, hateful boy!" she exclaimed passionately. "How dare you!"
 \nAnd then—Thwack! Anne had brought her slate down on Gilbert's head and cracked it—slate, not head—clear across.
-\nAvonlea school always enjoyed a scene. This was an especially enjoyable one. Everybody said, "Oh" in horrified delight. Diana gasped. Ruby Gillis, who \u200B
-
-\n\n\n\n"THWACK! ANNE HAD BROUGHT HER SLATE DOWN ON GILBERT'S HEAD."
-
-\n\n\n\n\u200B \u200Bwas inclined to be hysterical, began to cry. Tommy Sloane let his team of crickets escape him altogether while he stared open-mouthed at the tableau. Mr. Phillips stalked down the aisle and laid his hand heavily on Anne's shoulder.
+\nAvonlea school always enjoyed a scene. This was an especially enjoyable one. Everybody said, "Oh" in horrified delight. Diana gasped. Ruby Gillis, who {\u200B\n\n\n\n\n\n"THWACK! ANNE HAD BROUGHT HER SLATE DOWN ON GILBERT'S HEAD."\n\n\n\n\n\n\u200B \u200B>}was inclined to be hysterical, began to cry. Tommy Sloane let his team of crickets escape him altogether while he stared open-mouthed at the tableau. Mr. Phillips stalked down the aisle and laid his hand heavily on Anne's shoulder.
 \n"Anne Shirley, what does this mean?" he said angrily.
 \nAnne returned no answer. It was asking too much of flesh and blood to expect her to tell before the whole school that she had been called "carrots." Gilbert it was who spoke up stoutly.
 \n"It was my fault, Mr. Phillips. I teased her."
@@ -786,8 +776,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \nAt first the other scholars looked and whispered and giggled and nudged. But as Anne never lifted \u200Bher head and as Gilbert worked fractions as if his whole soul was absorbed in them and them only, they soon returned to their own tasks and Anne was forgotten. When Mr. Phillips called the history class out Anne should have gone; but Anne did not move, and Mr. Phillips, who had been writing some verses "To Priscilla" before he called the class, was thinking about an obstinate rhyme still and never missed her. Once, when nobody was looking, Gilbert took from his desk a little pink candy heart with a gold motto on it, "You are sweet," and slipped it under the curve of Anne's arm. Whereupon Anne arose, took the pink heart gingerly between the tips of her fingers, dropped it on the floor, ground it to powder beneath her heel, and resumed her position without deigning to bestow a glance on Gilbert.
 \nWhen school went out Anne marched to her desk, ostentatiously took out everything therein, books and writing tablet, pen and ink, testament and arithmetic, and piled them neatly on her cracked slate.
 \n"What are you taking all those things home for, Anne?" Diana wanted to know, as soon as they were out on the road. She had not dared to ask the question before.
-\n"I am not coming back to school any more," said Anne.
-\nDiana gasped and stared at Anne to see if she meant it.
+\n"I am not coming back to school any more," said Anne.\n\nDiana gasped and stared at Anne to see if she meant it.
 \n"Will Marilla let you stay home?" she asked.
 \n\n\n\u200B"She'll have to," said Anne. I'll never go to school to that man again."
 \n"Oh, Anne!" Diana looked as if she were ready to cry. "I do think you're mean. What shall I do? Mr. Phillips will make me sit with that horrid Gertie Pye—I know he will because she is sitting alone. Do come back, Anne."
@@ -798,8 +787,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \n"It isn't nonsense at all," said Anne, gazing at Marilla with solemn, reproachful eyes. "Don't you understand, Marilla? I've been insulted."
 \n\n\n\u200B"Insulted fiddlesticks! You'll go to school to-morrow as usual."
 \n"Oh, no." Anne shook her head gently. "I'm not going back, Marilla. I'll learn my lessons at home and I'll be as good as I can be and hold my tongue all the time if it's possible at all. But I will not go back to school I assure you."
-\nMarilla saw something remarkably like unyielding stubbornness looking out of Anne's small face. She understood that she would have trouble in overcoming it; but she resolved wisely to say nothing more just then.
-\n"I'll run down and see Rachel about it this evening," she thought. "There's no use reasoning with Anne now. She's too worked up and I've an idea she can be awful stubborn if she takes the notion. Far as I can make out from her story, Mr. Phillips has been carrying matters with a rather high hand. But it would never do to say so to her. I'll just talk it over with Rachel. She's sent ten children to school and she ought to know something about it. She'll have heard the whole story, too, by this time."
+\nMarilla saw something remarkably like unyielding stubbornness looking out of Anne's small face. She understood that she would have trouble in overcoming it; but she resolved wisely to say nothing more just then.\n\n"I'll run down and see Rachel about it this evening," she thought. "There's no use reasoning with Anne now. She's too worked up and I've an idea she can be awful stubborn if she takes the notion. Far as I can make out from her story, Mr. Phillips has been carrying matters with a rather high hand. But it would never do to say so to her. I'll just talk it over with Rachel. She's sent ten children to school and she ought to know something about it. She'll have heard the whole story, too, by this time."
 \nMarilla found Mrs. Lynde knitting quilts as industriously and cheerfully as usual.
 \n"I suppose you know what I've come about," she said, a little shamefacedly.
 \nMrs. Rachel nodded.
@@ -816,8 +804,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \nMarilla turned quickly away to hide her twitching face; but it was no use; she collapsed on the nearest chair and burst into such a hearty and unusual peal of laughter that Matthew, crossing the yard outside, halted in amazement. When had he heard Marilla laugh like that before?
 \n"Well, Anne Shirley," said Marilla as soon as she could speak, "if you must borrow trouble, for pity's sake borrow it handier home. I should think you had an imagination, sure enough."
 
-\n\n\n\n\u200B CHAPTER XVI
-\n\n\nDIANA IS INVITED TO TEA WITH TRAGIC RESULTS
+\n\n\n\n\u200B CHAPTER XVI{>. }\n\n\n\nDIANA IS INVITED TO TEA WITH TRAGIC RESULTS
 
 \n\n\n\nOctober was a beautiful month at Green Gables, when the birches in the hollow turned as golden as sunshine and the maples behind the orchard were royal crimson and the wild cherry-trees along the lane put on the loveliest shades of dark red and bronzy green, while the fields sunned themselves in aftermaths.
 \nAnne revelled in the world of colour about her.
@@ -893,8 +880,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \nBut when she slipped into the east gable before going to bed and found that Anne had cried herself to sleep an unaccustomed softness crept into her face.
 \n"Poor little soul," she murmured, lifting a loose curl of hair from the child's tear-stained face. Then she bent down and kissed the flushed cheek on the pillow.
 
-\n\n\n\n\u200B CHAPTER XVII
-\n\n\nA NEW INTEREST IN LIFE
+\n\n\n\n\u200B CHAPTER XVII{>. }\n\n\n\nA NEW INTEREST IN LIFE
 
 \n\n\n\nThe next afternoon Anne, bending over her patchwork at the kitchen window, happened to glance out and beheld Diana down by the Dryad's Bubble beckoning mysteriously. In a trice Anne was out of the house and flying down to the hollow, astonishment and hope struggling in her expressive eyes. But the hope faded when she saw Diana's dejected countenance.
 \n"Your mother hasn't relented?" she gasped.
@@ -917,8 +903,7 @@ CHAPTER I{>. }\n\n\n\nMRS. RACHEL LYNDE IS SURPRISED
 \n"You'd better muse over your lessons and sums," said Marilla, concealing her delight at this developent of the situation. "If you're going back to school I hope we'll hear no more of breaking slates over people's heads and such carryings-on. Behave yourself and do just what your teacher tells you."
 \n"I'll try to be a model pupil," agreed Anne dolefully. "There won't be much fun in it, I expect. Mr. Phillips said Minnie Andrews was a model pupil and there isn't a spark of imagination or life in her. She is just dull and poky and never seems to have a good time. But I feel so depressed that perhaps it will come easy to me now. I'm going round by the road. I couldn't bear to go by the Birch Path all alone. I should weep bitter tears if I did."
 \nAnne was welcomed back to school with open arms. Her imagination had been sorely missed in games, her voice in the singing, and her dramatic ability in the perusal aloud of books at dinner hour. Ruby Gillis smuggled three blue plums over to her during testament reading; Ella May Macpherson gave her an enormous yellow pansy cut from the covers of a floral catalogue—a species of desk decoration much prized in Avonlea school. Sophia Sloane offered to teach her a perfectly elegant new pattern of knit lace, so nice for trimming aprons. Katie Boulter gave her a perfume bottle to keep slate-water in and Julia Bell \u200Bcopied carefully on a piece of pale pink paper, scalloped on the edges, the following effusion:
-\n⁠"TO ANNE
-\n\n\n"When twilight drops her curtain down
+\n⁠{"TO ANNE>}\n\n\n\n"When twilight drops her curtain down
 \nAnd pins it with a star
 \nRemember that you have a friend
 \nThough she may wander far."
