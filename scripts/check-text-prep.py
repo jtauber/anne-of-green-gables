@@ -101,11 +101,11 @@ def check2(f1, f2):
             offset = 0
             for ch1, ch2 in zip(l1, l2):
                 if ch1 != ch2:
-                    print(l1[offset-20:offset])
+                    print(l1[offset-40:offset])
                     print("---")
-                    print(l1[offset:offset+20])
+                    print(l1[offset:offset+40])
                     print("---")
-                    print(l2[offset:offset+20])
+                    print(l2[offset:offset+40])
                     quit()
                 offset += 1
 
@@ -147,13 +147,17 @@ print("CD matches")
 
 print("---")
 check2("gutenberg_0.txt", "text-prep/gutenberg_A.txt")
-print("0A matches")
+print("G0A matches")
 
 check2("gutenberg_0.txt", "text-prep/gutenberg_B.txt")
-print("0B matches")
+print("G0B matches")
 
 check2("gutenberg_0.txt", "text-prep/gutenberg_C.txt")
-print("0C matches")
+print("G0C matches")
 
 check2("gutenberg_0.txt", "text-prep/gutenberg_D.txt")
-print("0D matches")
+print("G0D matches")
+
+print("---")
+check2("wikisource_0.txt", "text-prep/wikisource_E.txt")
+print("W0E matches")
