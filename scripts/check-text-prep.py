@@ -69,11 +69,6 @@ def check2(f1, f2):
         l1 = re.sub(r"{([^>]*)>([^}]*)}", r"\2", l1)
         l2 = re.sub(r"{([^>]*)>([^}]*)}", r"\2", l2)
 
-        # ignore case for now
-
-        l1 = l1.lower()  # for now
-        l2 = l2.lower()  # for now
-
         # ignore quote details for now
 
         l1 = re.sub("’", "'", l1)
