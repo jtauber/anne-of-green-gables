@@ -40026,11 +40026,11 @@ I                          	I
 hope                       	hope
 your                       	your
 father’s                   	father's                   	.
-crop                       	potato                     	@
-is                         	crop                       	@
-good                       	is                         	@
-too.”                      	good,                      	@
-None                       	too."                      	@
+@                          	potato                     	@
+crop                       	crop
+is                         	is
+good                       	good,                      	.
+too.”                      	too."                      	.
 “It                        	"It                        	.
 is                         	is
 fairly                     	fairly
@@ -40144,26 +40144,26 @@ a                          	a
 C                          	c                          	@
 and                        	and
 it’s                       	it's                       	.
-bright                     	a                          	@
-red                        	bright                     	@
-color.                     	red                        	@
-I                          	colour.                    	@
-love                       	I                          	@
-bright                     	love                       	@
-red                        	bright                     	@
-drinks,                    	red                        	@
-don’t                      	drinks,                    	@
-you?                       	don't                      	@
-They                       	you?                       	@
-taste                      	They                       	@
-twice                      	taste                      	@
-as                         	twice                      	@
-good                       	as                         	@
-as                         	good                       	@
-any                        	as                         	@
-other                      	any                        	@
-color.”                    	other                      	@
-None                       	colour."                   	@
+@                          	a                          	@
+bright                     	bright
+red                        	red
+color.                     	colour.                    	@
+I                          	I
+love                       	love
+bright                     	bright
+red                        	red
+drinks,                    	drinks,
+don’t                      	don't                      	.
+you?                       	you?
+They                       	They
+taste                      	taste
+twice                      	twice
+as                         	as
+good                       	good
+as                         	as
+any                        	any
+other                      	other
+color.”                    	colour."                   	@
 The                        	The
 orchard,                   	orchard,
 with                       	with
@@ -40537,15 +40537,15 @@ tumblerful,                	tumblerful,
 looked                     	looked
 at                         	at
 its                        	its
-bright-red                 	bright                     	@
-hue                        	red                        	@
-admiringly,                	hue                        	@
-and                        	admiringly,                	@
-then                       	and                        	@
-sipped                     	then                       	@
-it                         	sipped                     	@
-daintily.                  	it                         	@
-None                       	daintily.                  	@
+bright-@                   	bright                     	.
+red                        	red
+hue                        	hue
+admiringly,                	admiringly,
+and                        	and
+then                       	then
+sipped                     	sipped
+it                         	it
+daintily.                  	daintily.
 “That’s                    	"That's                    	.
 awfully                    	awfully
 nice                       	nice
@@ -40759,7 +40759,7 @@ were                       	were
 desperately                	desperately
 ill                        	ill
 with                       	with
-smallpox                   	small-pox                  	.
+smallpox                   	smallpox
 and                        	and
 everybody                  	everybody
 deserted                   	deserted
@@ -41285,7 +41285,7 @@ is                         	is
 such                       	such
 a                          	a
 perfect                    	perfect
-housekeeper                	house-keeper               	.
+housekeeper                	housekeeper
 and                        	and
 fancy                      	fancy
 what                       	what
@@ -41678,14 +41678,13 @@ and                        	and
 flung                      	flung
 herself                    	herself
 face                       	face
-downward                   	down-                      	@
-on                         	ward                       	@
-the                        	on                         	@
-sofa                       	the                        	@
-in                         	sofa                       	@
-an                         	in                         	@
-agony.                     	an                         	@
-None                       	agony.                     	@
+downward                   	downward
+on                         	on
+the                        	the
+sofa                       	sofa
+in                         	in
+an                         	an
+agony.                     	agony.
 “Whatever                  	"Whatever                  	.
 has                        	has
 gone                       	gone
@@ -41918,63 +41917,63 @@ containing                 	containing
 some                       	some
 of                         	of
 her                        	her
-three-year-old             	three                      	@
-homemade                   	year                       	@
-currant                    	old                        	@
-wine                       	homemade                   	@
-for                        	currant                    	@
-which                      	wine                       	@
-she                        	for                        	@
-was                        	which                      	@
-celebrated                 	she                        	@
-in                         	was                        	@
-Avonlea,                   	celebrated                 	@
-although                   	in                         	@
-certain                    	Avonlea,                   	@
-of                         	although                   	@
-the                        	certain                    	@
-stricter                   	of                         	@
-sort,                      	the                        	@
-Mrs.                       	stricter                   	@
-Barry                      	sort,                      	@
-among                      	Mrs.                       	@
-them,                      	Barry                      	@
-disapproved                	among                      	@
-strongly                   	them,                      	@
-of                         	disapproved                	@
-it.                        	strongly                   	@
-And                        	of                         	@
-at                         	it.                        	@
-the                        	And                        	@
-same                       	at                         	@
-time                       	the                        	@
-Marilla                    	same                       	@
-recollected                	time                       	@
-that                       	Marilla                    	@
-she                        	recollected                	@
-had                        	that                       	@
-put                        	she                        	@
-the                        	had                        	@
-bottle                     	put                        	@
-of                         	the                        	@
-raspberry                  	bottle                     	@
-cordial                    	of                         	@
-down                       	raspberry                  	@
-in                         	cordial                    	@
-the                        	down                       	@
-cellar                     	in                         	@
-instead                    	the                        	@
-of                         	cellar                     	@
-in                         	instead                    	@
-the                        	of                         	@
-pantry                     	in                         	@
-as                         	the                        	@
-she                        	pantry                     	@
-had                        	as                         	@
-told                       	she                        	@
-Anne.                      	had                        	@
-None                       	told                       	@
-None                       	Anne.                      	@
+three-@                    	three                      	.
+year-@                     	year                       	.
+old                        	old
+homemade                   	homemade
+currant                    	currant
+wine                       	wine
+for                        	for
+which                      	which
+she                        	she
+was                        	was
+celebrated                 	celebrated
+in                         	in
+Avonlea,                   	Avonlea,
+although                   	although
+certain                    	certain
+of                         	of
+the                        	the
+stricter                   	stricter
+sort,                      	sort,
+Mrs.                       	Mrs.
+Barry                      	Barry
+among                      	among
+them,                      	them,
+disapproved                	disapproved
+strongly                   	strongly
+of                         	of
+it.                        	it.
+And                        	And
+at                         	at
+the                        	the
+same                       	same
+time                       	time
+Marilla                    	Marilla
+recollected                	recollected
+that                       	that
+she                        	she
+had                        	had
+put                        	put
+the                        	the
+bottle                     	bottle
+of                         	of
+raspberry                  	raspberry
+cordial                    	cordial
+down                       	down
+in                         	in
+the                        	the
+cellar                     	cellar
+instead                    	instead
+of                         	of
+in                         	in
+the                        	the
+pantry                     	pantry
+as                         	as
+she                        	she
+had                        	had
+told                       	told
+Anne.                      	Anne.
 She                        	She
 went                       	went
 back                       	back
@@ -42062,59 +42061,59 @@ drunk.                     	drunk.
 She                        	She
 just                       	just
 laughed                    	laughed
-silly-like                 	silly                      	@
-when                       	like                       	@
-her                        	when                       	@
-mother                     	her                        	@
-asked                      	mother                     	@
-her                        	asked                      	@
-what                       	her                        	@
-was                        	what                       	@
-the                        	was                        	@
-matter                     	the                        	@
-and                        	matter                     	@
-went                       	and                        	@
-to                         	went                       	@
-sleep                      	to                         	@
-and                        	sleep                      	@
-slept                      	and                        	@
-for                        	slept                      	@
-hours.                     	for                        	@
-Her                        	hours.                     	@
-mother                     	Her                        	@
-smelled                    	mother                     	@
-her                        	smelled                    	@
-breath                     	her                        	@
-and                        	breath                     	@
-knew                       	and                        	@
-she                        	knew                       	@
-was                        	she                        	@
-drunk.                     	was                        	@
-She                        	drunk.                     	@
-had                        	She                        	@
-a                          	had                        	@
-fearful                    	a                          	@
-headache                   	fearful                    	@
-all                        	headache                   	@
-day                        	all                        	@
-yesterday.                 	day                        	@
-Mrs.                       	yesterday.                 	@
-Barry                      	Mrs.                       	@
-is                         	Barry                      	@
-so                         	is                         	@
-indignant.                 	so                         	@
-She                        	indignant.                 	@
-will                       	She                        	@
-never                      	will                       	@
-believe                    	never                      	@
-but                        	believe                    	@
-what                       	but                        	@
-I                          	what                       	@
-did                        	I                          	@
-it                         	did                        	@
-on                         	it                         	@
-purpose.”                  	on                         	@
-None                       	purpose."                  	@
+silly-@                    	silly                      	.
+like                       	like
+when                       	when
+her                        	her
+mother                     	mother
+asked                      	asked
+her                        	her
+what                       	what
+was                        	was
+the                        	the
+matter                     	matter
+and                        	and
+went                       	went
+to                         	to
+sleep                      	sleep
+and                        	and
+slept                      	slept
+for                        	for
+hours.                     	hours.
+Her                        	Her
+mother                     	mother
+smelled                    	smelled
+her                        	her
+breath                     	breath
+and                        	and
+knew                       	knew
+she                        	she
+was                        	was
+drunk.                     	drunk.
+She                        	She
+had                        	had
+a                          	a
+fearful                    	fearful
+headache                   	headache
+all                        	all
+day                        	day
+yesterday.                 	yesterday.
+Mrs.                       	Mrs.
+Barry                      	Barry
+is                         	is
+so                         	so
+indignant.                 	indignant.
+She                        	She
+will                       	will
+never                      	never
+believe                    	believe
+but                        	but
+what                       	what
+I                          	I
+did                        	did
+it                         	it
+on                         	on
+purpose.”                  	purpose."                  	.
 “I                         	"I                         	.
 should                     	should
 think                      	think
@@ -42275,37 +42274,37 @@ she                        	she
 finds                      	finds
 you’re                     	you're                     	.
 not                        	not
-to                         	really                     	@
-blame.                     	to                         	@
-I                          	blame.                     	@
-suppose                    	I                          	@
-she                        	suppose                    	@
-thinks                     	she                        	@
-you’ve                     	thinks                     	@
-done                       	you've                     	@
-it                         	done                       	@
-for                        	it                         	@
-a                          	for                        	@
-silly                      	a                          	@
-joke                       	silly                      	@
-or                         	joke                       	@
-something                  	or                         	@
-of                         	something                  	@
-that                       	of                         	@
-sort.                      	that                       	@
-You’d                      	sort.                      	@
-best                       	You'd                      	@
-go                         	best                       	@
-up                         	go                         	@
-this                       	up                         	@
-evening                    	this                       	@
-and                        	evening                    	@
-tell                       	and                        	@
-her                        	tell                       	@
-how                        	her                        	@
-it                         	how                        	@
-was.”                      	it                         	@
-None                       	was."                      	@
+@                          	really                     	@
+to                         	to
+blame.                     	blame.
+I                          	I
+suppose                    	suppose
+she                        	she
+thinks                     	thinks
+you’ve                     	you've                     	.
+done                       	done
+it                         	it
+for                        	for
+a                          	a
+silly                      	silly
+joke                       	joke
+or                         	or
+something                  	something
+of                         	of
+that                       	that
+sort.                      	sort.
+You’d                      	You'd                      	.
+best                       	best
+go                         	go
+up                         	up
+this                       	this
+evening                    	evening
+and                        	and
+tell                       	tell
+her                        	her
+how                        	how
+it                         	it
+was.”                      	was."                      	.
 “My                        	"My                        	.
 courage                    	courage
 fails                      	fails
@@ -43740,19 +43739,17 @@ of                         	of
 books                      	books
 on                         	on
 her                        	her
-arm                        	arm
+arm@and@hip                	arm                        	@
 and                        	and
-hip                        	her                        	@
-and                        	lips                       	@
-her                        	primmed                    	@
-lips                       	up                         	@
-primmed                    	into                       	@
-up                         	a                          	@
-into                       	line                       	@
-a                          	of                         	@
-line                       	determination.             	@
-of                         	None                       	@
-determination.             	None                       	@
+her                        	her
+lips                       	lips
+primmed                    	primmed
+up                         	up
+into                       	into
+a                          	a
+line                       	line
+of                         	of
+determination.             	determination.
 “I’m                       	"I'm                       	.
 going                      	going
 back                       	back
@@ -43807,7 +43804,7 @@ her                        	her
 delight                    	delight
 at                         	at
 this                       	this
-development                	developent                 	@
+development                	development
 of                         	of
 the                        	the
 situation.                 	situation.
@@ -43831,18 +43828,17 @@ people’s                   	people's                   	.
 heads                      	heads
 and                        	and
 such                       	such
-carryings                  	carryings-on.              	@
-on.                        	Behave                     	@
-Behave                     	yourself                   	@
-yourself                   	and                        	@
-and                        	do                         	@
-do                         	just                       	@
-just                       	what                       	@
-what                       	your                       	@
-your                       	teacher                    	@
-teacher                    	tells                      	@
-tells                      	you."                      	@
-you.”                      	None                       	@
+carryings@on.              	carryings-on.              	.
+Behave                     	Behave
+yourself                   	yourself
+and                        	and
+do                         	do
+just                       	just
+what                       	what
+your                       	your
+teacher                    	teacher
+tells                      	tells
+you.”                      	you."                      	.
 “I’ll                      	"I'll                      	.
 try                        	try
 to                         	to
@@ -43984,7 +43980,7 @@ testament                  	testament
 reading;                   	reading;
 Ella                       	Ella
 May                        	May
-MacPherson                 	Macpherson                 	@
+MacPherson@                	Macpherson                 	@
 gave                       	gave
 her                        	her
 an                         	an
@@ -44036,28 +44032,27 @@ perfume                    	perfume
 bottle                     	bottle
 to                         	to
 keep                       	keep
-slate                      	slate-water                	@
-water                      	in                         	@
-in,                        	and                        	@
-and                        	Julia                      	@
-Julia                      	Bell                       	@
-Bell                       	copied                     	@
-copied                     	carefully                  	@
-carefully                  	on                         	@
-on                         	a                          	@
-a                          	piece                      	@
-piece                      	of                         	@
-of                         	pale                       	@
-pale                       	pink                       	@
-pink                       	paper,                     	@
-paper                      	scalloped                  	@
-scalloped                  	on                         	@
-on                         	the                        	@
-the                        	edges,                     	@
-edges                      	the                        	@
-the                        	following                  	@
-following                  	effusion:                  	@
-effusion:                  	None                       	@
+slate@water                	slate-water                	.
+in,                        	in                         	.
+and                        	and
+Julia                      	Julia
+Bell                       	Bell
+copied                     	copied
+carefully                  	carefully
+on                         	on
+a                          	a
+piece                      	piece
+of                         	of
+pale                       	pale
+pink                       	pink
+paper                      	paper,                     	.
+scalloped                  	scalloped
+on                         	on
+the                        	the
+edges                      	edges,                     	.
+the                        	the
+following                  	following
+effusion:                  	effusion:
 When                       	⁠"When                     	.
 twilight                   	twilight
 drops                      	drops
@@ -44478,7 +44473,7 @@ it                         	it
 remember                   	remember
 Your                       	"Your                      	.
 true                       	true
-friend                     	friend,⁠                   	.
+friend                     	friend,                    	.
 Diana                      	"Diana                     	.
 Barry.                     	Barry."                    	.
 Anne                       	Anne
@@ -44565,7 +44560,7 @@ good                       	good
 yet,                       	yet,
 although                   	although
 much                       	much
-improved.                  	improoved.                 	@
+improved.@                 	improoved.                 	@
 Yours                      	"Yours                     	.
 until                      	until
 death                      	death
@@ -44576,21 +44571,21 @@ Anne                       	Anne
 or                         	or
 Cordelia                   	Cordelia
 Shirley.                   	Shirley.
-P.S.                       	"P.                        	@
-I                          	S.                         	@
-shall                      	I                          	@
-sleep                      	shall                      	@
-with                       	sleep                      	@
-your                       	with                       	@
-letter                     	your                       	@
-under                      	letter                     	@
-my                         	under                      	@
-pillow                     	my                         	@
-tonight.                   	pillow                     	@
-A.                         	to-night.                  	@
-_or_                       	"a.                        	@
-C.S.                       	or                         	@
-None                       	c.s.."                     	@
+P.@                        	"P.                        	.
+S.                         	S.
+I                          	I
+shall                      	shall
+sleep                      	sleep
+with                       	with
+your                       	your
+letter                     	letter
+under                      	under
+my                         	my
+pillow                     	pillow
+tonight.                   	to-night.                  	.
+A.                         	"a.                        	@
+_or_@                      	or                         	.
+C.S.                       	c.s."                      	@
 Marilla                    	Marilla
 pessimistically            	pessimistically
 expected                   	expected
@@ -44660,61 +44655,61 @@ apparent;                  	apparent;
 it                         	it
 was                        	was
 entirely                   	entirely
-good                       	good-natured               	@
-natured                    	on                         	@
-on                         	Gilbert's                  	@
-Gilbert’s                  	side;                      	@
-side;                      	but                        	@
-but                        	it                         	@
-it                         	is                         	@
-is                         	much                       	@
-much                       	to                         	@
-to                         	be                         	@
-be                         	feared                     	@
-feared                     	that                       	@
-that                       	the                        	@
-the                        	same                       	@
-same                       	thing                      	@
-thing                      	cannot                     	@
-cannot                     	be                         	@
-be                         	said                       	@
-said                       	of                         	@
-of                         	Anne,                      	@
-Anne,                      	who                        	@
-who                        	had                        	@
-had                        	certainly                  	@
-certainly                  	an                         	@
-an                         	unpraiseworthy             	@
-unpraiseworthy             	tenacity                   	@
-tenacity                   	for                        	@
-for                        	holding                    	@
-holding                    	grudges.                   	@
-grudges.                   	She                        	@
-She                        	was                        	@
-was                        	as                         	@
-as                         	intense                    	@
-intense                    	in                         	@
-in                         	her                        	@
-her                        	hatreds                    	@
-hatreds                    	as                         	@
-as                         	in                         	@
-in                         	her                        	@
-her                        	loves.                     	@
-loves.                     	She                        	@
-She                        	would                      	@
-would                      	not                        	@
-not                        	stoop                      	@
-stoop                      	to                         	@
-to                         	admit                      	@
-admit                      	that                       	@
-that                       	she                        	@
-she                        	meant                      	@
-meant                      	to                         	@
-to                         	rival                      	@
-rival                      	Gilbert                    	@
-Gilbert                    	in                         	@
-in                         	school                     	@
-schoolwork,                	work,                      	@
+good@natured               	good-natured               	.
+on                         	on
+Gilbert’s                  	Gilbert's                  	.
+side;                      	side;
+but                        	but
+it                         	it
+is                         	is
+much                       	much
+to                         	to
+be                         	be
+feared                     	feared
+that                       	that
+the                        	the
+same                       	same
+thing                      	thing
+cannot                     	cannot
+be                         	be
+said                       	said
+of                         	of
+Anne,                      	Anne,
+who                        	who
+had                        	had
+certainly                  	certainly
+an                         	an
+unpraiseworthy             	unpraiseworthy
+tenacity                   	tenacity
+for                        	for
+holding                    	holding
+grudges.                   	grudges.
+She                        	She
+was                        	was
+as                         	as
+intense                    	intense
+in                         	in
+her                        	her
+hatreds                    	hatreds
+as                         	as
+in                         	in
+her                        	her
+loves.                     	loves.
+She                        	She
+would                      	would
+not                        	not
+stoop                      	stoop
+to                         	to
+admit                      	admit
+that                       	that
+she                        	she
+meant                      	meant
+to                         	to
+rival                      	rival
+Gilbert                    	Gilbert
+in                         	in
+school@                    	school                     	.
+work,                      	work,
 because                    	because
 that                       	that
 would                      	would
@@ -44924,48 +44919,48 @@ under                      	under
 any                        	any
 kind                       	kind
 of                         	of
-teacher.                   	a                          	@
-By                         	teacher.                   	@
-the                        	By                         	@
-end                        	the                        	@
-of                         	end                        	@
-the                        	of                         	@
-term                       	the                        	@
-Anne                       	term                       	@
-and                        	Anne                       	@
-Gilbert                    	and                        	@
-were                       	Gilbert                    	@
-both                       	were                       	@
-promoted                   	both                       	@
-into                       	promoted                   	@
-the                        	into                       	@
-fifth                      	the                        	@
-class                      	fifth                      	@
-and                        	class                      	@
-allowed                    	and                        	@
-to                         	allowed                    	@
-begin                      	to                         	@
-studying                   	begin                      	@
-the                        	studying                   	@
-elements                   	the                        	@
-of                         	elements                   	@
-“the                       	of                         	@
-branches”—by               	"the                       	@
-which                      	branches"—by               	@
-Latin,                     	which                      	@
-geometry,                  	Latin,                     	@
-French,                    	geometry,                  	@
-and                        	French                     	@
-algebra                    	and                        	@
-were                       	algebra                    	@
-meant.                     	were                       	@
-In                         	meant.                     	@
-geometry                   	In                         	@
-Anne                       	geometry                   	@
-met                        	Anne                       	@
-her                        	met                        	@
-Waterloo.                  	her                        	@
-None                       	Waterloo.                  	@
+@                          	a                          	@
+teacher.                   	teacher.
+By                         	By
+the                        	the
+end                        	end
+of                         	of
+the                        	the
+term                       	term
+Anne                       	Anne
+and                        	and
+Gilbert                    	Gilbert
+were                       	were
+both                       	both
+promoted                   	promoted
+into                       	into
+the                        	the
+fifth                      	fifth
+class                      	class
+and                        	and
+allowed                    	allowed
+to                         	to
+begin                      	begin
+studying                   	studying
+the                        	the
+elements                   	elements
+of                         	of
+“the                       	"the                       	.
+branches”—by               	branches"—by               	.
+which                      	which
+Latin,                     	Latin,
+geometry,                  	geometry,
+French,                    	French                     	.
+and                        	and
+algebra                    	algebra
+were                       	were
+meant.                     	meant.
+In                         	In
+geometry                   	geometry
+Anne                       	Anne
+met                        	met
+her                        	her
+Waterloo.                  	Waterloo.
 “It’s                      	"It's                      	.
 perfectly                  	perfectly
 awful                      	awful
@@ -45009,81 +45004,81 @@ saw                        	saw
 at                         	at
 it.                        	it.
 And                        	And
-Gil—I                      	Gil—                       	@
-mean                       	I                          	@
-some                       	mean                       	@
-of                         	some                       	@
-the                        	of                         	@
-others                     	the                        	@
-are                        	others                     	@
-so                         	are                        	@
-smart                      	so                         	@
-at                         	smart                      	@
-it.                        	at                         	@
-It                         	it.                        	@
-is                         	It                         	@
-extremely                  	is                         	@
-mortifying,                	extremely                  	@
-Marilla.                   	mortifying,                	@
-Even                       	Marilla.                   	@
-Diana                      	Even                       	@
-gets                       	Diana                      	@
-along                      	gets                       	@
-better                     	along                      	@
-than                       	better                     	@
-I                          	than                       	@
-do.                        	I                          	@
-But                        	do.                        	@
-I                          	But                        	@
-don’t                      	I                          	@
-mind                       	don't                      	@
-being                      	mind                       	@
-beaten                     	being                      	@
-by                         	beaten                     	@
-Diana.                     	by                         	@
-Even                       	Diana.                     	@
-although                   	Even                       	@
-we                         	although                   	@
-meet                       	we                         	@
-as                         	meet                       	@
-strangers                  	as                         	@
-now                        	strangers                  	@
-I                          	now                        	@
-still                      	I                          	@
-love                       	still                      	@
-her                        	love                       	@
-with                       	her                        	@
-an                         	with                       	@
-_inextinguishable_         	an                         	@
-love.                      	inextinguishable           	@
-It                         	love.                      	@
-makes                      	It                         	@
-me                         	makes                      	@
-very                       	me                         	@
-sad                        	very                       	@
-at                         	sad                        	@
-times                      	at                         	@
-to                         	times                      	@
-think                      	to                         	@
-about                      	think                      	@
-her.                       	about                      	@
-But                        	her.                       	@
-really,                    	But                        	@
-Marilla,                   	really,                    	@
-one                        	Marilla,                   	@
-can’t                      	one                        	@
-stay                       	can't                      	@
-sad                        	stay                       	@
-very                       	sad                        	@
-long                       	very                       	@
-in                         	long                       	@
-such                       	in                         	@
-an                         	such                       	@
-interesting                	an                         	@
-world,                     	interesting                	@
-can                        	world,                     	@
-one?”                      	can                        	@
-None                       	one?"                      	@
+Gil—@                      	Gil—                       	.
+I                          	I
+mean                       	mean
+some                       	some
+of                         	of
+the                        	the
+others                     	others
+are                        	are
+so                         	so
+smart                      	smart
+at                         	at
+it.                        	it.
+It                         	It
+is                         	is
+extremely                  	extremely
+mortifying,                	mortifying,
+Marilla.                   	Marilla.
+Even                       	Even
+Diana                      	Diana
+gets                       	gets
+along                      	along
+better                     	better
+than                       	than
+I                          	I
+do.                        	do.
+But                        	But
+I                          	I
+don’t                      	don't                      	.
+mind                       	mind
+being                      	being
+beaten                     	beaten
+by                         	by
+Diana.                     	Diana.
+Even                       	Even
+although                   	although
+we                         	we
+meet                       	meet
+as                         	as
+strangers                  	strangers
+now                        	now
+I                          	I
+still                      	still
+love                       	love
+her                        	her
+with                       	with
+an                         	an
+_inextinguishable_         	inextinguishable           	.
+love.                      	love.
+It                         	It
+makes                      	makes
+me                         	me
+very                       	very
+sad                        	sad
+at                         	at
+times                      	times
+to                         	to
+think                      	think
+about                      	about
+her.                       	her.
+But                        	But
+really,                    	really,
+Marilla,                   	Marilla,
+one                        	one
+can’t                      	can't                      	.
+stay                       	stay
+sad                        	sad
+very                       	very
+long                       	long
+in                         	in
+such                       	such
+an                         	an
+interesting                	interesting
+world,                     	world,
+can                        	can
+one?”                      	one?"                      	.
 CHAPTER                    	CHAPTER
 XVIII.                     	XVIII.
 Anne                       	Anne
@@ -45181,134 +45176,134 @@ Avonlea                    	Avonlea
 people                     	people
 were                       	were
 on                         	on
-Premier’s                  	the                        	@
-side                       	Premier's                  	@
-of                         	side                       	@
-politics;                  	of                         	@
-hence                      	politics;                  	@
-on                         	hence,                     	@
-the                        	on                         	@
-night                      	the                        	@
-of                         	night                      	@
-the                        	of                         	@
-meeting                    	the                        	@
-nearly                     	meeting                    	@
-all                        	nearly                     	@
-the                        	all                        	@
-men                        	the                        	@
-and                        	men                        	@
-a                          	and                        	@
-goodly                     	a                          	@
-proportion                 	goodly                     	@
-of                         	proportion                 	@
-the                        	of                         	@
-women                      	the                        	@
-had                        	women                      	@
-gone                       	had                        	@
-to                         	gone                       	@
-town                       	to                         	@
-thirty                     	town,                      	@
-miles                      	thirty                     	@
-away.                      	miles                      	@
-Mrs.                       	away.                      	@
-Rachel                     	Mrs.                       	@
-Lynde                      	Rachel                     	@
-had                        	Lynde                      	@
-gone                       	had                        	@
-too.                       	gone                       	@
-Mrs.                       	too.                       	@
-Rachel                     	Mrs.                       	@
-Lynde                      	Rachel                     	@
-was                        	Lynde                      	@
-a                          	was                        	@
-red-hot                    	a                          	@
-politician                 	red-hot                    	@
-and                        	politician                 	@
-couldn’t                   	and                        	@
-have                       	couldn't                   	@
-believed                   	have                       	@
-that                       	believed                   	@
-the                        	that                       	@
-political                  	the                        	@
-rally                      	political                  	@
-could                      	rally                      	@
-be                         	could                      	@
-carried                    	be                         	@
-through                    	carried                    	@
-without                    	through                    	@
-her,                       	without                    	@
-although                   	her,                       	@
-she                        	although                   	@
-was                        	she                        	@
-on                         	was                        	@
-the                        	on                         	@
-opposite                   	the                        	@
-side                       	opposite                   	@
-of                         	side                       	@
-politics.                  	of                         	@
-So                         	politics.                  	@
-she                        	So                         	@
-went                       	she                        	@
-to                         	went                       	@
-town                       	to                         	@
-and                        	town                       	@
-took                       	and                        	@
-her                        	took                       	@
-husband—Thomas             	her                        	@
-would                      	husband—Thomas             	@
-be                         	would                      	@
-useful                     	be                         	@
-in                         	useful                     	@
-looking                    	in                         	@
-after                      	looking                    	@
-the                        	after                      	@
-horse—and                  	the                        	@
-Marilla                    	horse—and                  	@
-Cuthbert                   	Marilla                    	@
-with                       	Cuthbert                   	@
-her.                       	with                       	@
-Marilla                    	her.                       	@
-had                        	Marilla                    	@
-a                          	had                        	@
-sneaking                   	a                          	@
-interest                   	sneaking                   	@
-in                         	interest                   	@
-politics                   	in                         	@
-herself,                   	politics                   	@
-and                        	herself,                   	@
-as                         	and                        	@
-she                        	as                         	@
-thought                    	she                        	@
-it                         	thought                    	@
-might                      	it                         	@
-be                         	might                      	@
-her                        	be                         	@
-only                       	her                        	@
-chance                     	only                       	@
-to                         	chance                     	@
-see                        	to                         	@
-a                          	see                        	@
-real                       	a                          	@
-live                       	real                       	@
-Premier,                   	live                       	@
-she                        	Premier,                   	@
-promptly                   	she                        	@
-took                       	promptly                   	@
-it,                        	took                       	@
-leaving                    	it,                        	@
-Anne                       	leaving                    	@
-and                        	Anne                       	@
-Matthew                    	and                        	@
-to                         	Matthew                    	@
-keep                       	to                         	@
-house                      	keep                       	@
-until                      	house                      	@
-her                        	until                      	@
-return                     	her                        	@
-the                        	return                     	@
-following                  	the                        	@
-day.                       	following                  	@
-None                       	day.                       	@
+@                          	the                        	@
+Premier’s                  	Premier's                  	.
+side                       	side
+of                         	of
+politics;                  	politics;
+hence                      	hence,                     	.
+on                         	on
+the                        	the
+night                      	night
+of                         	of
+the                        	the
+meeting                    	meeting
+nearly                     	nearly
+all                        	all
+the                        	the
+men                        	men
+and                        	and
+a                          	a
+goodly                     	goodly
+proportion                 	proportion
+of                         	of
+the                        	the
+women                      	women
+had                        	had
+gone                       	gone
+to                         	to
+town                       	town,                      	.
+thirty                     	thirty
+miles                      	miles
+away.                      	away.
+Mrs.                       	Mrs.
+Rachel                     	Rachel
+Lynde                      	Lynde
+had                        	had
+gone                       	gone
+too.                       	too.
+Mrs.                       	Mrs.
+Rachel                     	Rachel
+Lynde                      	Lynde
+was                        	was
+a                          	a
+red-hot                    	red-hot
+politician                 	politician
+and                        	and
+couldn’t                   	couldn't                   	.
+have                       	have
+believed                   	believed
+that                       	that
+the                        	the
+political                  	political
+rally                      	rally
+could                      	could
+be                         	be
+carried                    	carried
+through                    	through
+without                    	without
+her,                       	her,
+although                   	although
+she                        	she
+was                        	was
+on                         	on
+the                        	the
+opposite                   	opposite
+side                       	side
+of                         	of
+politics.                  	politics.
+So                         	So
+she                        	she
+went                       	went
+to                         	to
+town                       	town
+and                        	and
+took                       	took
+her                        	her
+husband—Thomas             	husband—Thomas
+would                      	would
+be                         	be
+useful                     	useful
+in                         	in
+looking                    	looking
+after                      	after
+the                        	the
+horse—and                  	horse—and
+Marilla                    	Marilla
+Cuthbert                   	Cuthbert
+with                       	with
+her.                       	her.
+Marilla                    	Marilla
+had                        	had
+a                          	a
+sneaking                   	sneaking
+interest                   	interest
+in                         	in
+politics                   	politics
+herself,                   	herself,
+and                        	and
+as                         	as
+she                        	she
+thought                    	thought
+it                         	it
+might                      	might
+be                         	be
+her                        	her
+only                       	only
+chance                     	chance
+to                         	to
+see                        	see
+a                          	a
+real                       	real
+live                       	live
+Premier,                   	Premier,
+she                        	she
+promptly                   	promptly
+took                       	took
+it,                        	it,
+leaving                    	leaving
+Anne                       	Anne
+and                        	and
+Matthew                    	Matthew
+to                         	to
+keep                       	keep
+house                      	house
+until                      	until
+her                        	her
+return                     	return
+the                        	the
+following                  	following
+day.                       	day.
 Hence,                     	Hence,
 while                      	while
 Marilla                    	Marilla
@@ -45584,14 +45579,14 @@ Matthew                    	Matthew
 would                      	would
 have                       	have
 thought                    	thought
-anyone                     	any                        	@
-who                        	one                        	@
-praised                    	who                        	@
-Anne                       	praised                    	@
-was                        	Anne                       	@
-“all                       	was                        	@
-right.”                    	"all                       	@
-None                       	right."                    	@
+any@                       	any                        	.
+one                        	one
+who                        	who
+praised                    	praised
+Anne                       	Anne
+was                        	was
+“all                       	"all                       	.
+right.”                    	right."                    	.
 “I’m                       	"I'm                       	.
 sure                       	sure
 I’d                        	I'd                        	.
@@ -45751,60 +45746,60 @@ decidedly.                 	decidedly.
 “I’m                       	"I'm                       	.
 glad                       	glad,                      	.
 because                    	because
-Gil—because                	Gil—                       	@
-some                       	because                    	@
-of                         	some                       	@
-the                        	of                         	@
-boys                       	the                        	@
-in                         	boys                       	@
-school                     	in                         	@
-are                        	school                     	@
-Grits.                     	are                        	@
-I                          	Grits.                     	@
-guess                      	I                          	@
-Mr.                        	guess                      	@
-Phillips                   	Mr.                        	@
-is                         	Phillips                   	@
-a                          	is                         	@
-Grit                       	a                          	@
-too                        	Grit                       	@
-because                    	too,                       	@
-Prissy                     	because                    	@
-Andrews’s                  	Prissy                     	@
-father                     	Andrews'                   	@
-is                         	father                     	@
-one,                       	is                         	@
-and                        	one,                       	@
-Ruby                       	and                        	@
-Gillis                     	Ruby                       	@
-says                       	Gillis                     	@
-that                       	says                       	@
-when                       	that                       	@
-a                          	when                       	@
-man                        	a                          	@
-is                         	man                        	@
-courting                   	is                         	@
-he                         	courting                   	@
-always                     	he                         	@
-has                        	always                     	@
-to                         	has                        	@
-agree                      	to                         	@
-with                       	agree                      	@
-the                        	with                       	@
-girl’s                     	the                        	@
-mother                     	girl's                     	@
-in                         	mother                     	@
-religion                   	in                         	@
-and                        	religion                   	@
-her                        	and                        	@
-father                     	her                        	@
-in                         	father                     	@
-politics.                  	in                         	@
-Is                         	politics.                  	@
-that                       	Is                         	@
-true,                      	that                       	@
-Matthew?”                  	true,                      	@
-None                       	Matthew?"                  	@
+Gil—@                      	Gil—                       	.
+because                    	because
+some                       	some
+of                         	of
+the                        	the
+boys                       	boys
+in                         	in
+school                     	school
+are                        	are
+Grits.                     	Grits.
+I                          	I
+guess                      	guess
+Mr.                        	Mr.
+Phillips                   	Phillips
+is                         	is
+a                          	a
+Grit                       	Grit
+too                        	too,                       	.
+because                    	because
+Prissy                     	Prissy
+Andrews’s                  	Andrews'                   	@
+father                     	father
+is                         	is
+one,                       	one,
+and                        	and
+Ruby                       	Ruby
+Gillis                     	Gillis
+says                       	says
+that                       	that
+when                       	when
+a                          	a
+man                        	man
+is                         	is
+courting                   	courting
+he                         	he
+always                     	always
+has                        	has
+to                         	to
+agree                      	agree
+with                       	with
+the                        	the
+girl’s                     	girl's                     	.
+mother                     	mother
+in                         	in
+religion                   	religion
+and                        	and
+her                        	her
+father                     	father
+in                         	in
+politics.                  	politics.
+Is                         	Is
+that                       	that
+true,                      	true,
+Matthew?”                  	Matthew?"                  	.
 “Well                      	"Well                      	.
 now,                       	now,
 I                          	I
@@ -46225,70 +46220,69 @@ in                         	in
 rushed                     	rushed
 Diana                      	Diana
 Barry,                     	Barry,
-white                      	white-faced                	@
-faced                      	and                        	@
-and                        	breathless,                	@
-breathless,                	with                       	@
-with                       	a                          	@
-a                          	shawl                      	@
-shawl                      	wrapped                    	@
-wrapped                    	hastily                    	@
-hastily                    	around                     	@
-around                     	her                        	@
-her                        	head.                      	@
-head.                      	Anne                       	@
-Anne                       	promptly                   	@
-promptly                   	let                        	@
-let                        	go                         	@
-go                         	of                         	@
-of                         	her                        	@
-her                        	candle                     	@
-candle                     	and                        	@
-and                        	plate                      	@
-plate                      	in                         	@
-in                         	her                        	@
-her                        	surprise,                  	@
-surprise,                  	and                        	@
-and                        	plate,                     	@
-plate,                     	candle,                    	@
-candle,                    	and                        	@
-and                        	apples                     	@
-apples                     	crashed                    	@
-crashed                    	together                   	@
-together                   	down                       	@
-down                       	the                        	@
-the                        	cellar                     	@
-cellar                     	ladder                     	@
-ladder                     	and                        	@
-and                        	were                       	@
-were                       	found                      	@
-found                      	at                         	@
-at                         	the                        	@
-the                        	bottom                     	@
-bottom                     	embedded                   	@
-embedded                   	in                         	@
-in                         	melted                     	@
-melted                     	grease,                    	@
-grease,                    	the                        	@
-the                        	next                       	@
-next                       	day,                       	@
-day,                       	by                         	@
-by                         	Marilla,                   	@
-Marilla,                   	who                        	@
-who                        	gathered                   	@
-gathered                   	them                       	@
-them                       	up                         	@
-up                         	and                        	@
-and                        	thanked                    	@
-thanked                    	mercy                      	@
-mercy                      	the                        	@
-the                        	house                      	@
-house                      	hadn't                     	@
-hadn’t                     	been                       	@
-been                       	set                        	@
-set                        	on                         	@
-on                         	fire.                      	@
-fire.                      	None                       	@
+white@faced                	white-faced                	.
+and                        	and
+breathless,                	breathless,
+with                       	with
+a                          	a
+shawl                      	shawl
+wrapped                    	wrapped
+hastily                    	hastily
+around                     	around
+her                        	her
+head.                      	head.
+Anne                       	Anne
+promptly                   	promptly
+let                        	let
+go                         	go
+of                         	of
+her                        	her
+candle                     	candle
+and                        	and
+plate                      	plate
+in                         	in
+her                        	her
+surprise,                  	surprise,
+and                        	and
+plate,                     	plate,
+candle,                    	candle,
+and                        	and
+apples                     	apples
+crashed                    	crashed
+together                   	together
+down                       	down
+the                        	the
+cellar                     	cellar
+ladder                     	ladder
+and                        	and
+were                       	were
+found                      	found
+at                         	at
+the                        	the
+bottom                     	bottom
+embedded                   	embedded
+in                         	in
+melted                     	melted
+grease,                    	grease,
+the                        	the
+next                       	next
+day,                       	day,
+by                         	by
+Marilla,                   	Marilla,
+who                        	who
+gathered                   	gathered
+them                       	them
+up                         	up
+and                        	and
+thanked                    	thanked
+mercy                      	mercy
+the                        	the
+house                      	house
+hadn’t                     	hadn't                     	.
+been                       	been
+set                        	set
+on                         	on
+fire.                      	fire.
 “Whatever                  	"Whatever                  	.
 is                         	is
 the                        	the
@@ -47217,9 +47211,9 @@ was                        	was
 explaining                 	explaining
 the                        	the
 case                       	case
-to                         	out                        	@
-me.”                       	to                         	@
-None                       	me."                       	@
+@                          	out                        	@
+to                         	to
+me.”                       	me."                       	.
 Anne                       	Anne
 had                        	had
 gone                       	gone
@@ -47230,37 +47224,36 @@ wonderful,                 	wonderful,
 white-frosted              	white-frosted
 winter                     	winter
 morning,                   	morning,
-heavy                      	heavy-eyed                 	@
-eyed                       	from                       	@
-from                       	loss                       	@
-loss                       	of                         	@
-of                         	sleep,                     	@
-sleep,                     	but                        	@
-but                        	still                      	@
-still                      	talking                    	@
-talking                    	unweariedly                	@
-unweariedly                	to                         	@
-to                         	Matthew                    	@
-Matthew                    	as                         	@
-as                         	they                       	@
-they                       	crossed                    	@
-crossed                    	the                        	@
-the                        	long                       	@
-long                       	white                      	@
-white                      	field                      	@
-field                      	and                        	@
-and                        	walked                     	@
-walked                     	under                      	@
-under                      	the                        	@
-the                        	glittering                 	@
-glittering                 	fairy                      	@
-fairy                      	arch                       	@
-arch                       	of                         	@
-of                         	the                        	@
-the                        	Lovers'                    	@
-Lover’s                    	Lane                       	@
-Lane                       	maples.                    	@
-maples.                    	None                       	@
+heavy@eyed                 	heavy-eyed                 	.
+from                       	from
+loss                       	loss
+of                         	of
+sleep,                     	sleep,
+but                        	but
+still                      	still
+talking                    	talking
+unweariedly                	unweariedly
+to                         	to
+Matthew                    	Matthew
+as                         	as
+they                       	they
+crossed                    	crossed
+the                        	the
+long                       	long
+white                      	white
+field                      	field
+and                        	and
+walked                     	walked
+under                      	under
+the                        	the
+glittering                 	glittering
+fairy                      	fairy
+arch                       	arch
+of                         	of
+the                        	the
+Lover’s                    	Lovers'                    	.
+Lane                       	Lane
+maples.                    	maples.
 “Oh,                       	"Oh,                       	.
 Matthew,                   	Matthew,
 isn’t                      	isn't                      	.
@@ -47382,43 +47375,43 @@ to                         	to
 stay                       	stay
 home,                      	home                       	.
 for                        	for
-Gil—some                   	Gil—                       	@
-of                         	some                       	@
-the                        	of                         	@
-others                     	the                        	@
-will                       	others                     	@
-get                        	will                       	@
-head                       	get                        	@
-of                         	head                       	@
-the                        	of                         	@
-class,                     	the                        	@
-and                        	class,                     	@
-it’s                       	and                        	@
-so                         	it's                       	@
-hard                       	so                         	@
-to                         	hard                       	@
-get                        	to                         	@
-up                         	get                        	@
-again—although             	up                         	@
-of                         	again—although             	@
-course                     	of                         	@
-the                        	course                     	@
-harder                     	the                        	@
-it                         	harder                     	@
-is                         	it                         	@
-the                        	is                         	@
-more                       	the                        	@
-satisfaction               	more                       	@
-you                        	satisfaction               	@
-have                       	you                        	@
-when                       	have                       	@
-you                        	when                       	@
-do                         	you                        	@
-get                        	do                         	@
-up,                        	get                        	@
-haven’t                    	up,                        	@
-you?”                      	haven't                    	@
-None                       	you?"                      	@
+Gil—@                      	Gil—                       	.
+some                       	some
+of                         	of
+the                        	the
+others                     	others
+will                       	will
+get                        	get
+head                       	head
+of                         	of
+the                        	the
+class,                     	class,
+and                        	and
+it’s                       	it's                       	.
+so                         	so
+hard                       	hard
+to                         	to
+get                        	get
+up                         	up
+again—although             	again—although
+of                         	of
+course                     	course
+the                        	the
+harder                     	harder
+it                         	it
+is                         	is
+the                        	the
+more                       	more
+satisfaction               	satisfaction
+you                        	you
+have                       	have
+when                       	when
+you                        	you
+do                         	do
+get                        	get
+up,                        	up,
+haven’t                    	haven't                    	.
+you?”                      	you?"                      	.
 “Well                      	"Well                      	.
 now,                       	now,
 I                          	I
@@ -47800,11 +47793,11 @@ pity’s                     	pity's                     	.
 sake                       	sake
 don’t                      	don't                      	.
 fly                        	fly
-up                         	clean                      	@
-into                       	up                         	@
-the                        	into                       	@
-air.”                      	the                        	@
-None                       	air."                      	@
+@                          	clean                      	@
+up                         	up
+into                       	into
+the                        	the
+air.”                      	air."                      	.
 The                        	The
 warning                    	warning
 seemed                     	seemed
@@ -47974,36 +47967,35 @@ spruce.                    	spruce.
 The                        	The
 tinkles                    	tinkles
 of                         	of
-sleigh                     	sleigh-bells               	@
-bells                      	among                      	@
-among                      	the                        	@
-the                        	snowy                      	@
-snowy                      	hills                      	@
-hills                      	came                       	@
-came                       	like                       	@
-like                       	elfin                      	@
-elfin                      	chimes                     	@
-chimes                     	through                    	@
-through                    	the                        	@
-the                        	frosty                     	@
-frosty                     	air,                       	@
-air,                       	but                        	@
-but                        	their                      	@
-their                      	music                      	@
-music                      	was                        	@
-was                        	not                        	@
-not                        	sweeter                    	@
-sweeter                    	than                       	@
-than                       	the                        	@
-the                        	song                       	@
-song                       	in                         	@
-in                         	Anne's                     	@
-Anne’s                     	heart                      	@
-heart                      	and                        	@
-and                        	on                         	@
-on                         	her                        	@
-her                        	lips.                      	@
-lips.                      	None                       	@
+sleigh@bells               	sleigh-bells               	.
+among                      	among
+the                        	the
+snowy                      	snowy
+hills                      	hills
+came                       	came
+like                       	like
+elfin                      	elfin
+chimes                     	chimes
+through                    	through
+the                        	the
+frosty                     	frosty
+air,                       	air,
+but                        	but
+their                      	their
+music                      	music
+was                        	was
+not                        	not
+sweeter                    	sweeter
+than                       	than
+the                        	the
+song                       	song
+in                         	in
+Anne’s                     	Anne's                     	.
+heart                      	heart
+and                        	and
+on                         	on
+her                        	her
+lips.                      	lips.
 “You                       	"You                       	.
 see                        	see
 before                     	before
@@ -48168,27 +48160,27 @@ to                         	to
 reveal                     	reveal
 it                         	it
 to                         	to
-anyone                     	any                        	@
-else.                      	one                        	@
-Diana                      	else.                      	@
-gave                       	Diana                      	@
-me                         	gave                       	@
-a                          	me                         	@
-beautiful                  	a                          	@
-card                       	beautiful                  	@
-with                       	card                       	@
-a                          	with                       	@
-wreath                     	a                          	@
-of                         	wreath                     	@
-roses                      	of                         	@
-on                         	roses                      	@
-it                         	on                         	@
-and                        	it                         	@
-a                          	and                        	@
-verse                      	a                          	@
-of                         	verse                      	@
-poetry:”                   	of                         	@
-None                       	poetry:                    	@
+any@                       	any                        	.
+one                        	one
+else.                      	else.
+Diana                      	Diana
+gave                       	gave
+me                         	me
+a                          	a
+beautiful                  	beautiful
+card                       	card
+with                       	with
+a                          	a
+wreath                     	wreath
+of                         	of
+roses                      	roses
+on                         	on
+it                         	it
+and                        	and
+a                          	a
+verse                      	verse
+of                         	of
+poetry:”                   	poetry:                    	.
 “If                        	"'If                       	.
 you                        	you
 love                       	love
@@ -48279,56 +48271,55 @@ we                         	we
 had                        	had
 fruit@cake                 	fruit-cake                 	.
 and                        	and
-pound                      	pound-cake                 	@
-cake                       	and                        	@
-and                        	doughnuts                  	@
-doughnuts                  	and                        	@
-and                        	two                        	@
-two                        	kinds                      	@
-kinds                      	of                         	@
-of                         	preserves,                 	@
-preserves,                 	Marilla.                   	@
-Marilla.                   	And                        	@
-And                        	Mrs.                       	@
-Mrs.                       	Barry                      	@
-Barry                      	asked                      	@
-asked                      	me                         	@
-me                         	if                         	@
-if                         	I                          	@
-I                          	took                       	@
-took                       	tea                        	@
-tea                        	and                        	@
-and                        	said,                      	@
-said                       	'Pa,                       	@
-‘Pa,                       	why                        	@
-why                        	don't                      	@
-don’t                      	you                        	@
-you                        	pass                       	@
-pass                       	the                        	@
-the                        	biscuits                   	@
-biscuits                   	to                         	@
-to                         	Anne?'                     	@
-Anne?’                     	It                         	@
-It                         	must                       	@
-must                       	be                         	@
-be                         	lovely                     	@
-lovely                     	to                         	@
-to                         	be                         	@
-be                         	grown                      	@
-grown                      	up,                        	@
-up,                        	Marilla,                   	@
-Marilla,                   	when                       	@
-when                       	just                       	@
-just                       	being                      	@
-being                      	treated                    	@
-treated                    	as                         	@
-as                         	if                         	@
-if                         	you                        	@
-you                        	were                       	@
-were                       	is                         	@
-is                         	so                         	@
-so                         	nice."                     	@
-nice.”                     	None                       	@
+pound@cake                 	pound-cake                 	.
+and                        	and
+doughnuts                  	doughnuts
+and                        	and
+two                        	two
+kinds                      	kinds
+of                         	of
+preserves,                 	preserves,
+Marilla.                   	Marilla.
+And                        	And
+Mrs.                       	Mrs.
+Barry                      	Barry
+asked                      	asked
+me                         	me
+if                         	if
+I                          	I
+took                       	took
+tea                        	tea
+and                        	and
+said                       	said,                      	.
+‘Pa,                       	'Pa,                       	.
+why                        	why
+don’t                      	don't                      	.
+you                        	you
+pass                       	pass
+the                        	the
+biscuits                   	biscuits
+to                         	to
+Anne?’                     	Anne?'                     	.
+It                         	It
+must                       	must
+be                         	be
+lovely                     	lovely
+to                         	to
+be                         	be
+grown                      	grown
+up,                        	up,
+Marilla,                   	Marilla,
+when                       	when
+just                       	just
+being                      	being
+treated                    	treated
+as                         	as
+if                         	if
+you                        	you
+were                       	were
+is                         	is
+so                         	so
+nice.”                     	nice."                     	.
 “I                         	"I                         	.
 don’t                      	don't                      	.
 know                       	know
@@ -48656,30 +48647,29 @@ the                        	the
 candle                     	candle
 on                         	on
 the                        	the
-window                     	window-sill                	@
-sill                       	and                        	@
-and                        	make                       	@
-make                       	flashes                    	@
-flashes                    	by                         	@
-by                         	passing                    	@
-passing                    	the                        	@
-the                        	cardboard                  	@
-cardboard                  	back                       	@
-back                       	and                        	@
-and                        	forth.                     	@
-forth.                     	So                         	@
-So                         	many                       	@
-many                       	flashes                    	@
-flashes                    	mean                       	@
-mean                       	a                          	@
-a                          	certain                    	@
-certain                    	thing.                     	@
-thing.                     	It                         	@
-It                         	was                        	@
-was                        	my                         	@
-my                         	idea,                      	@
-idea,                      	Marilla."                  	@
-Marilla.”                  	None                       	@
+window@sill                	window-sill                	.
+and                        	and
+make                       	make
+flashes                    	flashes
+by                         	by
+passing                    	passing
+the                        	the
+cardboard                  	cardboard
+back                       	back
+and                        	and
+forth.                     	forth.
+So                         	So
+many                       	many
+flashes                    	flashes
+mean                       	mean
+a                          	a
+certain                    	certain
+thing.                     	thing.
+It                         	It
+was                        	was
+my                         	my
+idea,                      	idea,
+Marilla.”                  	Marilla."                  	.
 “I’ll                      	"I'll                      	.
 warrant                    	warrant
 you                        	you
@@ -49997,32 +49987,32 @@ and                        	and
 shapeless,                 	shapeless,
 tight-sleeved,             	tight-sleeved,
 homemade                   	home-made                  	.
-gray-cloth                 	gray                       	@
-coat                       	cloth                      	@
-with                       	coat                       	@
-Diana’s                    	with                       	@
-jaunty                     	Diana's                    	@
-fur                        	jaunty                     	@
-cap                        	fur                        	@
-and                        	cap                        	@
-smart                      	and                        	@
-little                     	smart                      	@
-jacket.                    	little                     	@
-But                        	jacket.                    	@
-she                        	But                        	@
-remembered                 	she                        	@
-in                         	remembered                 	@
-time                       	in                         	@
-that                       	time                       	@
-she                        	that                       	@
-had                        	she                        	@
-an                         	had                        	@
-imagination                	an                         	@
-and                        	imagination                	@
-could                      	and                        	@
-use                        	could                      	@
-it.                        	use                        	@
-None                       	it.                        	@
+gray-@                     	gray                       	.
+cloth                      	cloth
+coat                       	coat
+with                       	with
+Diana’s                    	Diana's                    	.
+jaunty                     	jaunty
+fur                        	fur
+cap                        	cap
+and                        	and
+smart                      	smart
+little                     	little
+jacket.                    	jacket.
+But                        	But
+she                        	she
+remembered                 	remembered
+in                         	in
+time                       	time
+that                       	that
+she                        	she
+had                        	had
+an                         	an
+imagination                	imagination
+and                        	and
+could                      	could
+use                        	use
+it.                        	it.
 Then                       	Then
 Diana’s                    	Diana's                    	.
 cousins,                   	cousins,
@@ -50103,23 +50093,23 @@ and                        	wine                       	@
 fire.                      	and                        	@
 Tinkles                    	fire.                      	@
 of                         	Tinkles                    	@
-sleigh                     	of                         	@
-bells                      	sleigh-bells               	@
-and                        	and
-distant                    	distant
-laughter,                  	laughter,
-that                       	that
-seemed                     	seemed
-like                       	like
-the                        	the
-mirth                      	mirth
-of                         	of
-wood                       	wood
-elves,                     	elves,
-came                       	came
-from                       	from
-every                      	every
-quarter.                   	quarter.
+sleigh@bells               	of                         	@
+and                        	sleigh-bells               	@
+distant                    	and                        	@
+laughter,                  	distant                    	@
+that                       	laughter,                  	@
+seemed                     	that                       	@
+like                       	seemed                     	@
+the                        	like                       	@
+mirth                      	the                        	@
+of                         	mirth                      	@
+wood                       	of                         	@
+elves,                     	wood                       	@
+came                       	elves,                     	@
+from                       	came                       	@
+every                      	from                       	@
+quarter.                   	every                      	@
+None                       	quarter.                   	@
 “Oh,                       	"Oh,                       	.
 Diana,”                    	Diana,"                    	.
 breathed                   	breathed
@@ -52997,76 +52987,76 @@ don’t                      	don't                      	.
 really                     	really
 care                       	care
 whether                    	whether
-Gil—whether                	Gil—                       	@
-anybody                    	whether                    	@
-gets                       	anybody                    	@
-ahead                      	gets                       	@
-of                         	ahead                      	@
-me                         	of                         	@
-in                         	me                         	@
-class                      	in                         	@
-or                         	class                      	@
-not.                       	or                         	@
-But                        	not.                       	@
-when                       	But                        	@
-I’m                        	when                       	@
-up                         	I'm                        	@
-in                         	up                         	@
-school                     	in                         	@
-it’s                       	school                     	@
-all                        	it's                       	@
-different                  	all                        	@
-and                        	different                  	@
-I                          	and                        	@
-care                       	I                          	@
-as                         	care                       	@
-much                       	as                         	@
-as                         	much                       	@
-ever.                      	as                         	@
-There’s                    	ever.                      	@
-such                       	There's                    	@
-a                          	such                       	@
-lot                        	a                          	@
-of                         	lot                        	@
-different                  	of                         	@
-Annes                      	different                  	@
-in                         	Annes                      	@
-me.                        	in                         	@
-I                          	me.                        	@
-sometimes                  	I                          	@
-think                      	sometimes                  	@
-that                       	think                      	@
-is                         	that                       	@
-why                        	is                         	@
-I’m                        	why                        	@
-such                       	I'm                        	@
-a                          	such                       	@
-troublesome                	a                          	@
-person.                    	troublesome                	@
-If                         	person.                    	@
-I                          	If                         	@
-was                        	I                          	@
-just                       	was                        	@
-the                        	just                       	@
-one                        	the                        	@
-Anne                       	one                        	@
-it                         	Anne                       	@
-would                      	it                         	@
-be                         	would                      	@
-ever                       	be                         	@
-so                         	ever                       	@
-much                       	so                         	@
-more                       	much                       	@
-comfortable,               	more                       	@
-but                        	comfortable,               	@
-then                       	but                        	@
-it                         	then                       	@
-wouldn’t                   	it                         	@
-be                         	wouldn't                   	@
-half                       	be                         	@
-so                         	half                       	@
-interesting.”              	so                         	@
-None                       	interesting."              	@
+Gil—@                      	Gil—                       	.
+whether                    	whether
+anybody                    	anybody
+gets                       	gets
+ahead                      	ahead
+of                         	of
+me                         	me
+in                         	in
+class                      	class
+or                         	or
+not.                       	not.
+But                        	But
+when                       	when
+I’m                        	I'm                        	.
+up                         	up
+in                         	in
+school                     	school
+it’s                       	it's                       	.
+all                        	all
+different                  	different
+and                        	and
+I                          	I
+care                       	care
+as                         	as
+much                       	much
+as                         	as
+ever.                      	ever.
+There’s                    	There's                    	.
+such                       	such
+a                          	a
+lot                        	lot
+of                         	of
+different                  	different
+Annes                      	Annes
+in                         	in
+me.                        	me.
+I                          	I
+sometimes                  	sometimes
+think                      	think
+that                       	that
+is                         	is
+why                        	why
+I’m                        	I'm                        	.
+such                       	such
+a                          	a
+troublesome                	troublesome
+person.                    	person.
+If                         	If
+I                          	I
+was                        	was
+just                       	just
+the                        	the
+one                        	one
+Anne                       	Anne
+it                         	it
+would                      	would
+be                         	be
+ever                       	ever
+so                         	so
+much                       	much
+more                       	more
+comfortable,               	comfortable,
+but                        	but
+then                       	then
+it                         	it
+wouldn’t                   	wouldn't                   	.
+be                         	be
+half                       	half
+so                         	so
+interesting.”              	interesting."              	.
 One                        	One
 June                       	June
 evening,                   	evening,
@@ -54948,448 +54938,448 @@ made                       	made
 me                         	me
 sit                        	sit
 with                       	with
-Gil—with                   	Gil—                       	@
-a                          	with                       	@
-boy;                       	a                          	@
-and                        	boy;                       	@
-the                        	and                        	@
-time                       	the                        	@
-he                         	time                       	@
-spelled                    	he                         	@
-my                         	spelled                    	@
-name                       	my                         	@
-without                    	name                       	@
-an                         	without                    	@
-‘e’                        	an                         	@
-on                         	e                          	@
-the                        	on                         	@
-blackboard;                	the                        	@
-and                        	black-board;               	@
-how                        	and                        	@
-he                         	how                        	@
-said                       	he                         	@
-I                          	said                       	@
-was                        	I                          	@
-the                        	was                        	@
-worst                      	the                        	@
-dunce                      	worst                      	@
-he                         	dunce                      	@
-ever                       	he                         	@
-saw                        	ever                       	@
-at                         	saw                        	@
-geometry                   	at                         	@
-and                        	geometry                   	@
-laughed                    	and                        	@
-at                         	laughed                    	@
-my                         	at                         	@
-spelling;                  	my                         	@
-and                        	spelling;                  	@
-all                        	and                        	@
-the                        	all                        	@
-times                      	the                        	@
-he                         	times                      	@
-had                        	he                         	@
-been                       	had                        	@
-so                         	been                       	@
-horrid                     	so                         	@
-and                        	horrid                     	@
-sarcastic;                 	and                        	@
-but                        	sarcastic;                 	@
-somehow                    	but                        	@
-I                          	somehow                    	@
-couldn’t,                  	I                          	@
-Marilla,                   	couldn't,                  	@
-and                        	Marilla,                   	@
-I                          	and                        	@
-just                       	I                          	@
-had                        	just                       	@
-to                         	had                        	@
-cry                        	to                         	@
-too.                       	cry                        	@
-Jane                       	too.                       	@
-Andrews                    	Jane                       	@
-has                        	Andrews                    	@
-been                       	has                        	@
-talking                    	been                       	@
-for                        	talking                    	@
-a                          	for                        	@
-month                      	a                          	@
-about                      	month                      	@
-how                        	about                      	@
-glad                       	how                        	@
-she’d                      	glad                       	@
-be                         	she'd                      	@
-when                       	be                         	@
-Mr.                        	when                       	@
-Phillips                   	Mr.                        	@
-went                       	Phillips                   	@
-away                       	went                       	@
-and                        	away                       	@
-she                        	and                        	@
-declared                   	she                        	@
-she’d                      	declared                   	@
-never                      	she'd                      	@
-shed                       	never                      	@
-a                          	shed                       	@
-tear.                      	a                          	@
-Well,                      	tear.                      	@
-she                        	Well,                      	@
-was                        	she                        	@
-worse                      	was                        	@
-than                       	worse                      	@
-any                        	than                       	@
-of                         	any                        	@
-us                         	of                         	@
-and                        	us                         	@
-had                        	and                        	@
-to                         	had                        	@
-borrow                     	to                         	@
-a                          	borrow                     	@
-handkerchief               	a                          	@
-from                       	handkerchief               	@
-her                        	from                       	@
-brother—of                 	her                        	@
-course                     	brother—of                 	@
-the                        	course                     	@
-boys                       	the                        	@
-didn’t                     	boys                       	@
-cry—because                	didn't                     	@
-she                        	cry—because                	@
-hadn’t                     	she                        	@
-brought                    	hadn't                     	@
-one                        	brought                    	@
-of                         	one                        	@
-her                        	of                         	@
-own,                       	her                        	@
-not                        	own,                       	@
-expecting                  	not                        	@
-to                         	expecting                  	@
-need                       	to                         	@
-it.                        	need                       	@
-Oh,                        	it.                        	@
-Marilla,                   	Oh,                        	@
-it                         	Marilla,                   	@
-was                        	it                         	@
-heartrending.              	was                        	@
-Mr.                        	heartrending.              	@
-Phillips                   	Mr.                        	@
-made                       	Phillips                   	@
-such                       	made                       	@
-a                          	such                       	@
-beautiful                  	a                          	@
-farewell                   	beautiful                  	@
-speech                     	farewell                   	@
-beginning,                 	speech                     	@
-‘The                       	beginning,                 	@
-time                       	'The                       	@
-has                        	time                       	@
-come                       	has                        	@
-for                        	come                       	@
-us                         	for                        	@
-to                         	us                         	@
-part.’                     	to                         	@
-It                         	part.'                     	@
-was                        	It                         	@
-very                       	was                        	@
-affecting.                 	very                       	@
-And                        	affecting.                 	@
-he                         	And                        	@
-had                        	he                         	@
-tears                      	had                        	@
-in                         	tears                      	@
-his                        	in                         	@
-eyes                       	his                        	@
-too,                       	eyes                       	@
-Marilla.                   	too,                       	@
-Oh,                        	Marilla.                   	@
-I                          	Oh,                        	@
-felt                       	I                          	@
-dreadfully                 	felt                       	@
-sorry                      	dreadfully                 	@
-and                        	sorry                      	@
-remorseful                 	and                        	@
-for                        	remorseful                 	@
-all                        	for                        	@
-the                        	all                        	@
-times                      	the                        	@
-I’d                        	times                      	@
-talked                     	I'd                        	@
-in                         	talked                     	@
-school                     	in                         	@
-and                        	school                     	@
-drawn                      	and                        	@
-pictures                   	drawn                      	@
-of                         	pictures                   	@
-him                        	of                         	@
-on                         	him                        	@
-my                         	on                         	@
-slate                      	my                         	@
-and                        	slate                      	@
-made                       	and                        	@
-fun                        	made                       	@
-of                         	fun                        	@
-him                        	of                         	@
-and                        	him                        	@
-Prissy.                    	and                        	@
-I                          	Prissy.                    	@
-can                        	I                          	@
-tell                       	can                        	@
-you                        	tell                       	@
-I                          	you                        	@
-wished                     	I                          	@
-I’d                        	wished                     	@
-been                       	I'd                        	@
-a                          	been                       	@
-model                      	a                          	@
-pupil                      	model                      	@
-like                       	pupil                      	@
-Minnie                     	like                       	@
-Andrews.                   	Minnie                     	@
-She                        	Andrews.                   	@
-hadn’t                     	She                        	@
-anything                   	hadn't                     	@
-on                         	anything                   	@
-her                        	on                         	@
-conscience.                	her                        	@
-The                        	conscience.                	@
-girls                      	The                        	@
-cried                      	girls                      	@
-all                        	cried                      	@
-the                        	all                        	@
-way                        	the                        	@
-home                       	way                        	@
-from                       	home                       	@
-school.                    	from                       	@
-Carrie                     	school.                    	@
-Sloane                     	Carrie                     	@
-kept                       	Sloane                     	@
-saying                     	kept                       	@
-every                      	saying                     	@
-few                        	every                      	@
-minutes,                   	few                        	@
-‘The                       	minutes,                   	@
-time                       	'The                       	@
-has                        	time                       	@
-come                       	has                        	@
-for                        	come                       	@
-us                         	for                        	@
-to                         	us                         	@
-part,’                     	to                         	@
-and                        	part,'                     	@
-that                       	and                        	@
-would                      	that                       	@
-start                      	would                      	@
-us                         	start                      	@
-off                        	us                         	@
-again                      	off                        	@
-whenever                   	again                      	@
-we                         	whenever                   	@
-were                       	we                         	@
-in                         	were                       	@
-any                        	in                         	@
-danger                     	any                        	@
-of                         	danger                     	@
-cheering                   	of                         	@
-up.                        	cheering                   	@
-I                          	up.                        	@
-do                         	I                          	@
-feel                       	do                         	@
-dreadfully                 	feel                       	@
-sad,                       	dreadfully                 	@
-Marilla.                   	sad,                       	@
-But                        	Marilla.                   	@
-one                        	But                        	@
-can’t                      	one                        	@
-feel                       	can't                      	@
-quite                      	feel                       	@
-in                         	quite                      	@
-the                        	in                         	@
-depths                     	the                        	@
-of                         	depths                     	@
-despair                    	of                         	@
-with                       	despair                    	@
-two                        	with                       	@
-months’                    	two                        	@
-vacation                   	months                     	@
-before                     	vacation                   	@
-them,                      	before                     	@
-can                        	them,                      	@
-they,                      	can                        	@
-Marilla?                   	they,                      	@
-And                        	Marilla?                   	@
-besides,                   	And                        	@
-we                         	besides,                   	@
-met                        	we                         	@
-the                        	met                        	@
-new                        	the                        	@
-minister                   	new                        	@
-and                        	minister                   	@
-his                        	and                        	@
-wife                       	his                        	@
-coming                     	wife                       	@
-from                       	coming                     	@
-the                        	from                       	@
-station.                   	the                        	@
-For                        	station.                   	@
-all                        	For                        	@
-I                          	all                        	@
-was                        	I                          	@
-feeling                    	was                        	@
-so                         	feeling                    	@
-bad                        	so                         	@
-about                      	bad                        	@
-Mr.                        	about                      	@
-Phillips                   	Mr.                        	@
-going                      	Phillips                   	@
-away                       	going                      	@
-I                          	away                       	@
-couldn’t                   	I                          	@
-help                       	couldn't                   	@
-taking                     	help                       	@
-a                          	taking                     	@
-little                     	a                          	@
-interest                   	little                     	@
-in                         	interest                   	@
-a                          	in                         	@
-new                        	a                          	@
-minister,                  	new                        	@
-could                      	minister,                  	@
-I?                         	could                      	@
-His                        	I?                         	@
-wife                       	His                        	@
-is                         	wife                       	@
-very                       	is                         	@
-pretty.                    	very                       	@
-Not                        	pretty.                    	@
-exactly                    	Not                        	@
-regally                    	exactly                    	@
-lovely,                    	regally                    	@
-of                         	lovely,                    	@
-course—it                  	of                         	@
-wouldn’t                   	course—it                  	@
-do,                        	wouldn't                   	@
-I                          	do,                        	@
-suppose,                   	I                          	@
-for                        	suppose,                   	@
-a                          	for                        	@
-minister                   	a                          	@
-to                         	minister                   	@
-have                       	to                         	@
-a                          	have                       	@
-regally                    	a                          	@
-lovely                     	regally                    	@
-wife,                      	lovely                     	@
-because                    	wife,                      	@
-it                         	because                    	@
-might                      	it                         	@
-set                        	might                      	@
-a                          	set                        	@
-bad                        	a                          	@
-example.                   	bad                        	@
-Mrs.                       	example.                   	@
-Lynde                      	Mrs.                       	@
-says                       	Lynde                      	@
-the                        	says                       	@
-minister’s                 	the                        	@
-wife                       	minister's                 	@
-over                       	wife                       	@
-at                         	over                       	@
-Newbridge                  	at                         	@
-sets                       	Newbridge                  	@
-a                          	sets                       	@
-very                       	a                          	@
-bad                        	very                       	@
-example                    	bad                        	@
-because                    	example                    	@
-she                        	because                    	@
-dresses                    	she                        	@
-so                         	dresses                    	@
-fashionably.               	so                         	@
-Our                        	fashionably.               	@
-new                        	Our                        	@
-minister’s                 	new                        	@
-wife                       	minister's                 	@
-was                        	wife                       	@
-dressed                    	was                        	@
-in                         	dressed                    	@
-blue                       	in                         	@
-muslin                     	blue                       	@
-with                       	muslin                     	@
-lovely                     	with                       	@
-puffed                     	lovely                     	@
-sleeves                    	puffed                     	@
-and                        	sleeves                    	@
-a                          	and                        	@
-hat                        	a                          	@
-trimmed                    	hat                        	@
-with                       	trimmed                    	@
-roses.                     	with                       	@
-Jane                       	roses.                     	@
-Andrews                    	Jane                       	@
-said                       	Andrews                    	@
-she                        	said                       	@
-thought                    	she                        	@
-puffed                     	thought                    	@
-sleeves                    	puffed                     	@
-were                       	sleeves                    	@
-too                        	were                       	@
-worldly                    	too                        	@
-for                        	worldly                    	@
-a                          	for                        	@
-minister’s                 	a                          	@
-wife,                      	minister's                 	@
-but                        	wife,                      	@
-I                          	but                        	@
-didn’t                     	I                          	@
-make                       	didn't                     	@
-any                        	make                       	@
-such                       	any                        	@
-uncharitable               	such                       	@
-remark,                    	uncharitable               	@
-Marilla,                   	remark,                    	@
-because                    	Marilla,                   	@
-I                          	because                    	@
-know                       	I                          	@
-what                       	know                       	@
-it                         	what                       	@
-is                         	it                         	@
-to                         	is                         	@
-long                       	to                         	@
-for                        	long                       	@
-puffed                     	for                        	@
-sleeves.                   	puffed                     	@
-Besides,                   	sleeves.                   	@
-she’s                      	Besides,                   	@
-only                       	she's                      	@
-been                       	only                       	@
-a                          	been                       	@
-minister’s                 	a                          	@
-wife                       	minister's                 	@
-for                        	wife                       	@
-a                          	for                        	@
-little                     	a                          	@
-while,                     	little                     	@
-so                         	while,                     	@
-one                        	so                         	@
-should                     	one                        	@
-make                       	should                     	@
-allowances,                	make                       	@
-shouldn’t                  	allowances,                	@
-they?                      	shouldn't                  	@
-They                       	they?                      	@
-are                        	They                       	@
-going                      	are                        	@
-to                         	going                      	@
-board                      	to                         	@
-with                       	board                      	@
-Mrs.                       	with                       	@
-Lynde                      	Mrs.                       	@
-until                      	Lynde                      	@
-the                        	until                      	@
-manse                      	the                        	@
-is                         	manse                      	@
-ready.”                    	is                         	@
-None                       	ready."                    	@
+Gil—@                      	Gil—                       	.
+with                       	with
+a                          	a
+boy;                       	boy;
+and                        	and
+the                        	the
+time                       	time
+he                         	he
+spelled                    	spelled
+my                         	my
+name                       	name
+without                    	without
+an                         	an
+‘e’                        	e                          	.
+on                         	on
+the                        	the
+blackboard;                	black-board;               	.
+and                        	and
+how                        	how
+he                         	he
+said                       	said
+I                          	I
+was                        	was
+the                        	the
+worst                      	worst
+dunce                      	dunce
+he                         	he
+ever                       	ever
+saw                        	saw
+at                         	at
+geometry                   	geometry
+and                        	and
+laughed                    	laughed
+at                         	at
+my                         	my
+spelling;                  	spelling;
+and                        	and
+all                        	all
+the                        	the
+times                      	times
+he                         	he
+had                        	had
+been                       	been
+so                         	so
+horrid                     	horrid
+and                        	and
+sarcastic;                 	sarcastic;
+but                        	but
+somehow                    	somehow
+I                          	I
+couldn’t,                  	couldn't,                  	.
+Marilla,                   	Marilla,
+and                        	and
+I                          	I
+just                       	just
+had                        	had
+to                         	to
+cry                        	cry
+too.                       	too.
+Jane                       	Jane
+Andrews                    	Andrews
+has                        	has
+been                       	been
+talking                    	talking
+for                        	for
+a                          	a
+month                      	month
+about                      	about
+how                        	how
+glad                       	glad
+she’d                      	she'd                      	.
+be                         	be
+when                       	when
+Mr.                        	Mr.
+Phillips                   	Phillips
+went                       	went
+away                       	away
+and                        	and
+she                        	she
+declared                   	declared
+she’d                      	she'd                      	.
+never                      	never
+shed                       	shed
+a                          	a
+tear.                      	tear.
+Well,                      	Well,
+she                        	she
+was                        	was
+worse                      	worse
+than                       	than
+any                        	any
+of                         	of
+us                         	us
+and                        	and
+had                        	had
+to                         	to
+borrow                     	borrow
+a                          	a
+handkerchief               	handkerchief
+from                       	from
+her                        	her
+brother—of                 	brother—of
+course                     	course
+the                        	the
+boys                       	boys
+didn’t                     	didn't                     	.
+cry—because                	cry—because
+she                        	she
+hadn’t                     	hadn't                     	.
+brought                    	brought
+one                        	one
+of                         	of
+her                        	her
+own,                       	own,
+not                        	not
+expecting                  	expecting
+to                         	to
+need                       	need
+it.                        	it.
+Oh,                        	Oh,
+Marilla,                   	Marilla,
+it                         	it
+was                        	was
+heartrending.              	heartrending.
+Mr.                        	Mr.
+Phillips                   	Phillips
+made                       	made
+such                       	such
+a                          	a
+beautiful                  	beautiful
+farewell                   	farewell
+speech                     	speech
+beginning,                 	beginning,
+‘The                       	'The                       	.
+time                       	time
+has                        	has
+come                       	come
+for                        	for
+us                         	us
+to                         	to
+part.’                     	part.'                     	.
+It                         	It
+was                        	was
+very                       	very
+affecting.                 	affecting.
+And                        	And
+he                         	he
+had                        	had
+tears                      	tears
+in                         	in
+his                        	his
+eyes                       	eyes
+too,                       	too,
+Marilla.                   	Marilla.
+Oh,                        	Oh,
+I                          	I
+felt                       	felt
+dreadfully                 	dreadfully
+sorry                      	sorry
+and                        	and
+remorseful                 	remorseful
+for                        	for
+all                        	all
+the                        	the
+times                      	times
+I’d                        	I'd                        	.
+talked                     	talked
+in                         	in
+school                     	school
+and                        	and
+drawn                      	drawn
+pictures                   	pictures
+of                         	of
+him                        	him
+on                         	on
+my                         	my
+slate                      	slate
+and                        	and
+made                       	made
+fun                        	fun
+of                         	of
+him                        	him
+and                        	and
+Prissy.                    	Prissy.
+I                          	I
+can                        	can
+tell                       	tell
+you                        	you
+I                          	I
+wished                     	wished
+I’d                        	I'd                        	.
+been                       	been
+a                          	a
+model                      	model
+pupil                      	pupil
+like                       	like
+Minnie                     	Minnie
+Andrews.                   	Andrews.
+She                        	She
+hadn’t                     	hadn't                     	.
+anything                   	anything
+on                         	on
+her                        	her
+conscience.                	conscience.
+The                        	The
+girls                      	girls
+cried                      	cried
+all                        	all
+the                        	the
+way                        	way
+home                       	home
+from                       	from
+school.                    	school.
+Carrie                     	Carrie
+Sloane                     	Sloane
+kept                       	kept
+saying                     	saying
+every                      	every
+few                        	few
+minutes,                   	minutes,
+‘The                       	'The                       	.
+time                       	time
+has                        	has
+come                       	come
+for                        	for
+us                         	us
+to                         	to
+part,’                     	part,'                     	.
+and                        	and
+that                       	that
+would                      	would
+start                      	start
+us                         	us
+off                        	off
+again                      	again
+whenever                   	whenever
+we                         	we
+were                       	were
+in                         	in
+any                        	any
+danger                     	danger
+of                         	of
+cheering                   	cheering
+up.                        	up.
+I                          	I
+do                         	do
+feel                       	feel
+dreadfully                 	dreadfully
+sad,                       	sad,
+Marilla.                   	Marilla.
+But                        	But
+one                        	one
+can’t                      	can't                      	.
+feel                       	feel
+quite                      	quite
+in                         	in
+the                        	the
+depths                     	depths
+of                         	of
+despair                    	despair
+with                       	with
+two                        	two
+months’                    	months                     	.
+vacation                   	vacation
+before                     	before
+them,                      	them,
+can                        	can
+they,                      	they,
+Marilla?                   	Marilla?
+And                        	And
+besides,                   	besides,
+we                         	we
+met                        	met
+the                        	the
+new                        	new
+minister                   	minister
+and                        	and
+his                        	his
+wife                       	wife
+coming                     	coming
+from                       	from
+the                        	the
+station.                   	station.
+For                        	For
+all                        	all
+I                          	I
+was                        	was
+feeling                    	feeling
+so                         	so
+bad                        	bad
+about                      	about
+Mr.                        	Mr.
+Phillips                   	Phillips
+going                      	going
+away                       	away
+I                          	I
+couldn’t                   	couldn't                   	.
+help                       	help
+taking                     	taking
+a                          	a
+little                     	little
+interest                   	interest
+in                         	in
+a                          	a
+new                        	new
+minister,                  	minister,
+could                      	could
+I?                         	I?
+His                        	His
+wife                       	wife
+is                         	is
+very                       	very
+pretty.                    	pretty.
+Not                        	Not
+exactly                    	exactly
+regally                    	regally
+lovely,                    	lovely,
+of                         	of
+course—it                  	course—it
+wouldn’t                   	wouldn't                   	.
+do,                        	do,
+I                          	I
+suppose,                   	suppose,
+for                        	for
+a                          	a
+minister                   	minister
+to                         	to
+have                       	have
+a                          	a
+regally                    	regally
+lovely                     	lovely
+wife,                      	wife,
+because                    	because
+it                         	it
+might                      	might
+set                        	set
+a                          	a
+bad                        	bad
+example.                   	example.
+Mrs.                       	Mrs.
+Lynde                      	Lynde
+says                       	says
+the                        	the
+minister’s                 	minister's                 	.
+wife                       	wife
+over                       	over
+at                         	at
+Newbridge                  	Newbridge
+sets                       	sets
+a                          	a
+very                       	very
+bad                        	bad
+example                    	example
+because                    	because
+she                        	she
+dresses                    	dresses
+so                         	so
+fashionably.               	fashionably.
+Our                        	Our
+new                        	new
+minister’s                 	minister's                 	.
+wife                       	wife
+was                        	was
+dressed                    	dressed
+in                         	in
+blue                       	blue
+muslin                     	muslin
+with                       	with
+lovely                     	lovely
+puffed                     	puffed
+sleeves                    	sleeves
+and                        	and
+a                          	a
+hat                        	hat
+trimmed                    	trimmed
+with                       	with
+roses.                     	roses.
+Jane                       	Jane
+Andrews                    	Andrews
+said                       	said
+she                        	she
+thought                    	thought
+puffed                     	puffed
+sleeves                    	sleeves
+were                       	were
+too                        	too
+worldly                    	worldly
+for                        	for
+a                          	a
+minister’s                 	minister's                 	.
+wife,                      	wife,
+but                        	but
+I                          	I
+didn’t                     	didn't                     	.
+make                       	make
+any                        	any
+such                       	such
+uncharitable               	uncharitable
+remark,                    	remark,
+Marilla,                   	Marilla,
+because                    	because
+I                          	I
+know                       	know
+what                       	what
+it                         	it
+is                         	is
+to                         	to
+long                       	long
+for                        	for
+puffed                     	puffed
+sleeves.                   	sleeves.
+Besides,                   	Besides,
+she’s                      	she's                      	.
+only                       	only
+been                       	been
+a                          	a
+minister’s                 	minister's                 	.
+wife                       	wife
+for                        	for
+a                          	a
+little                     	little
+while,                     	while,
+so                         	so
+one                        	one
+should                     	should
+make                       	make
+allowances,                	allowances,
+shouldn’t                  	shouldn't                  	.
+they?                      	they?
+They                       	They
+are                        	are
+going                      	going
+to                         	to
+board                      	board
+with                       	with
+Mrs.                       	Mrs.
+Lynde                      	Lynde
+until                      	until
+the                        	the
+manse                      	manse
+is                         	is
+ready.”                    	ready."                    	.
 If                         	If
 Marilla,                   	Marilla,
 in                         	in
@@ -56740,100 +56730,100 @@ especially                 	especially
 for                        	for
 ministers,                 	ministers,
 and                        	and
-pound                      	pound
-cake                       	cake
-and                        	and
-layer                      	layer
-cake,                      	cake,
-and                        	and
-biscuits                   	biscuits
-as                         	as
-aforesaid;                 	aforesaid;
-and                        	and
-new                        	new
-bread                      	bread
-and                        	and
-old                        	old
-both,                      	both,
-in                         	in
-case                       	case
-the                        	the
-minister                   	minister
-is                         	is
-dyspeptic                  	dyspeptic
-and                        	and
-can’t                      	can't                      	.
-eat                        	eat
-new.                       	new.
-Mrs.                       	Mrs.
-Lynde                      	Lynde
-says                       	says
-ministers                  	ministers
-are                        	mostly                     	@
-dyspeptic,                 	are                        	@
-but                        	dyspeptic,                 	@
-I                          	but                        	@
-don’t                      	I                          	@
-think                      	don't                      	@
-Mr.                        	think                      	@
-Allan                      	Mr.                        	@
-has                        	Allan                      	@
-been                       	has                        	@
-a                          	been                       	@
-minister                   	a                          	@
-long                       	minister                   	@
-enough                     	long                       	@
-for                        	enough                     	@
-it                         	for                        	@
-to                         	it                         	@
-have                       	to                         	@
-had                        	have                       	@
-a                          	had                        	@
-bad                        	a                          	@
-effect                     	bad                        	@
-on                         	effect                     	@
-him.                       	on                         	@
-I                          	him.                       	@
-just                       	I                          	@
-grow                       	just                       	@
-cold                       	grow                       	@
-when                       	cold                       	@
-I                          	when                       	@
+pound@cake                 	pound                      	@
+and                        	cake                       	@
+layer                      	and                        	@
+cake,                      	layer                      	@
+and                        	cake,                      	@
+biscuits                   	and                        	@
+as                         	biscuits                   	@
+aforesaid;                 	as                         	@
+and                        	aforesaid;                 	@
+new                        	and                        	@
+bread                      	new                        	@
+and                        	bread                      	@
+old                        	and                        	@
+both,                      	old                        	@
+in                         	both,                      	@
+case                       	in                         	@
+the                        	case                       	@
+minister                   	the                        	@
+is                         	minister                   	@
+dyspeptic                  	is                         	@
+and                        	dyspeptic                  	@
+can’t                      	and                        	@
+eat                        	can't                      	@
+new.                       	eat                        	@
+Mrs.                       	new.                       	@
+Lynde                      	Mrs.                       	@
+says                       	Lynde                      	@
+ministers                  	says                       	@
+are                        	ministers                  	@
+dyspeptic,                 	mostly                     	@
+but                        	are                        	@
+I                          	dyspeptic,                 	@
+don’t                      	but                        	@
 think                      	I                          	@
-of                         	think                      	@
-my                         	of                         	@
-layer                      	my                         	@
-cake.                      	layer                      	@
-Oh,                        	cake.                      	@
-Diana,                     	Oh,                        	@
-what                       	Diana,                     	@
-if                         	what                       	@
-it                         	if                         	@
-shouldn’t                  	it                         	@
-be                         	shouldn't                  	@
-good!                      	be                         	@
-I                          	good!                      	@
-dreamed                    	I                          	@
-last                       	dreamed                    	@
-night                      	last                       	@
-that                       	night                      	@
-I                          	that                       	@
-was                        	I                          	@
-chased                     	was                        	@
-all                        	chased                     	@
-around                     	all                        	@
-by                         	around                     	@
-a                          	by                         	@
-fearful                    	a                          	@
-goblin                     	fearful                    	@
-with                       	goblin                     	@
-a                          	with                       	@
-big                        	a                          	@
-layer                      	big                        	@
-cake                       	layer                      	@
-for                        	cake                       	@
-a                          	for                        	@
-head.”                     	a                          	@
+Mr.                        	don't                      	@
+Allan                      	think                      	@
+has                        	Mr.                        	@
+been                       	Allan                      	@
+a                          	has                        	@
+minister                   	been                       	@
+long                       	a                          	@
+enough                     	minister                   	@
+for                        	long                       	@
+it                         	enough                     	@
+to                         	for                        	@
+have                       	it                         	@
+had                        	to                         	@
+a                          	have                       	@
+bad                        	had                        	@
+effect                     	a                          	@
+on                         	bad                        	@
+him.                       	effect                     	@
+I                          	on                         	@
+just                       	him.                       	@
+grow                       	I                          	@
+cold                       	just                       	@
+when                       	grow                       	@
+I                          	cold                       	@
+think                      	when                       	@
+of                         	I                          	@
+my                         	think                      	@
+layer                      	of                         	@
+cake.                      	my                         	@
+Oh,                        	layer                      	@
+Diana,                     	cake.                      	@
+what                       	Oh,                        	@
+if                         	Diana,                     	@
+it                         	what                       	@
+shouldn’t                  	if                         	@
+be                         	it                         	@
+good!                      	shouldn't                  	@
+I                          	be                         	@
+dreamed                    	good!                      	@
+last                       	I                          	@
+night                      	dreamed                    	@
+that                       	last                       	@
+I                          	night                      	@
+was                        	that                       	@
+chased                     	I                          	@
+all                        	was                        	@
+around                     	chased                     	@
+by                         	all                        	@
+a                          	around                     	@
+fearful                    	by                         	@
+goblin                     	a                          	@
+with                       	fearful                    	@
+a                          	goblin                     	@
+big                        	with                       	@
+layer                      	a                          	@
+cake                       	big                        	@
+for                        	layer                      	@
+a                          	cake                       	@
+head.”                     	for                        	@
+None                       	a                          	@
 None                       	head."                     	@
 “It’ll                     	"It'll                     	.
 be                         	be
@@ -57962,107 +57952,107 @@ cake                       	a                          	@
 with                       	cake                       	@
 anodyne                    	with                       	@
 liniment.                  	anodyne                    	@
-Gil—the                    	liniment.                  	@
-boys                       	Gil—the                    	@
-in                         	boys                       	@
-school                     	in                         	@
-will                       	school                     	@
-never                      	will                       	@
-get                        	never                      	@
-over                       	get                        	@
-laughing                   	over                       	@
-at                         	laughing                   	@
-it.                        	at                         	@
-Oh,                        	it.                        	@
-Marilla,                   	Oh,                        	@
-if                         	Marilla,                   	@
-you                        	if                         	@
-have                       	you                        	@
-a                          	have                       	@
-spark                      	a                          	@
-of                         	spark                      	@
-Christian                  	of                         	@
-pity                       	Christian                  	@
-don’t                      	pity                       	@
-tell                       	don't                      	@
-me                         	tell                       	@
-that                       	me                         	@
-I                          	that                       	@
-must                       	I                          	@
-go                         	must                       	@
-down                       	go                         	@
-and                        	down                       	@
-wash                       	and                        	@
-the                        	wash                       	@
-dishes                     	the                        	@
-after                      	dishes                     	@
-this.                      	after                      	@
-I’ll                       	this.                      	@
-wash                       	I'll                       	@
-them                       	wash                       	@
-when                       	them                       	@
-the                        	when                       	@
-minister                   	the                        	@
-and                        	minister                   	@
-his                        	and                        	@
-wife                       	his                        	@
-are                        	wife                       	@
-gone,                      	are                        	@
-but                        	gone,                      	@
-I                          	but                        	@
-cannot                     	I                          	@
-ever                       	cannot                     	@
-look                       	ever                       	@
-Mrs.                       	look                       	@
-Allan                      	Mrs.                       	@
-in                         	Allan                      	@
-the                        	in                         	@
-face                       	the                        	@
-again.                     	face                       	@
-Perhaps                    	again.                     	@
-she’ll                     	Perhaps                    	@
-think                      	she'll                     	@
-I                          	think                      	@
-tried                      	I                          	@
-to                         	tried                      	@
-poison                     	to                         	@
-her.                       	poison                     	@
-Mrs.                       	her.                       	@
-Lynde                      	Mrs.                       	@
-says                       	Lynde                      	@
-she                        	says                       	@
-knows                      	she                        	@
-an                         	knows                      	@
-orphan                     	an                         	@
-girl                       	orphan                     	@
-who                        	girl                       	@
-tried                      	who                        	@
-to                         	tried                      	@
-poison                     	to                         	@
-her                        	poison                     	@
-benefactor.                	her                        	@
-But                        	benefactor.                	@
-the                        	But                        	@
-liniment                   	the                        	@
-isn’t                      	liniment                   	@
-poisonous.                 	isn't                      	@
-It’s                       	poisonous.                 	@
-meant                      	It's                       	@
-to                         	meant                      	@
-be                         	to                         	@
-taken                      	be                         	@
-internally—although        	taken                      	@
-not                        	internally—although        	@
-in                         	not                        	@
-cakes.                     	in                         	@
-Won’t                      	cakes.                     	@
-you                        	Won't                      	@
-tell                       	you                        	@
-Mrs.                       	tell                       	@
-Allan                      	Mrs.                       	@
-so,                        	Allan                      	@
-Marilla?”                  	so,                        	@
-None                       	Marilla?"                  	@
+Gil—@                      	liniment.                  	@
+the                        	Gil—the                    	@
+boys                       	boys
+in                         	in
+school                     	school
+will                       	will
+never                      	never
+get                        	get
+over                       	over
+laughing                   	laughing
+at                         	at
+it.                        	it.
+Oh,                        	Oh,
+Marilla,                   	Marilla,
+if                         	if
+you                        	you
+have                       	have
+a                          	a
+spark                      	spark
+of                         	of
+Christian                  	Christian
+pity                       	pity
+don’t                      	don't                      	.
+tell                       	tell
+me                         	me
+that                       	that
+I                          	I
+must                       	must
+go                         	go
+down                       	down
+and                        	and
+wash                       	wash
+the                        	the
+dishes                     	dishes
+after                      	after
+this.                      	this.
+I’ll                       	I'll                       	.
+wash                       	wash
+them                       	them
+when                       	when
+the                        	the
+minister                   	minister
+and                        	and
+his                        	his
+wife                       	wife
+are                        	are
+gone,                      	gone,
+but                        	but
+I                          	I
+cannot                     	cannot
+ever                       	ever
+look                       	look
+Mrs.                       	Mrs.
+Allan                      	Allan
+in                         	in
+the                        	the
+face                       	face
+again.                     	again.
+Perhaps                    	Perhaps
+she’ll                     	she'll                     	.
+think                      	think
+I                          	I
+tried                      	tried
+to                         	to
+poison                     	poison
+her.                       	her.
+Mrs.                       	Mrs.
+Lynde                      	Lynde
+says                       	says
+she                        	she
+knows                      	knows
+an                         	an
+orphan                     	orphan
+girl                       	girl
+who                        	who
+tried                      	tried
+to                         	to
+poison                     	poison
+her                        	her
+benefactor.                	benefactor.
+But                        	But
+the                        	the
+liniment                   	liniment
+isn’t                      	isn't                      	.
+poisonous.                 	poisonous.
+It’s                       	It's                       	.
+meant                      	meant
+to                         	to
+be                         	be
+taken                      	taken
+internally—although        	internally—although
+not                        	not
+in                         	in
+cakes.                     	cakes.
+Won’t                      	Won't                      	.
+you                        	you
+tell                       	tell
+Mrs.                       	Mrs.
+Allan                      	Allan
+so,                        	so,
+Marilla?”                  	Marilla?"                  	.
 “Suppose                   	Suppose                    	.
 you                        	you
 jump                       	jump
@@ -61598,38 +61588,38 @@ go                         	go
 to                         	to
 school.                    	school.
 And                        	And
-Gil—everybody              	Gil—                       	@
-will                       	everybody                  	@
-get                        	will                       	@
-ahead                      	get                        	@
-of                         	ahead                      	@
-me                         	of                         	@
-in                         	me                         	@
-class.                     	in                         	@
-Oh,                        	class.                     	@
-I                          	Oh,                        	@
-am                         	I                          	@
-an                         	am                         	@
-afflicted                  	an                         	@
-mortal.                    	afflicted                  	@
-But                        	mortal.                    	@
-I’ll                       	But                        	@
-try                        	I'll                       	@
-to                         	try                        	@
-bear                       	to                         	@
-it                         	bear                       	@
-all                        	it                         	@
-bravely                    	all                        	@
-if                         	bravely                    	@
-only                       	if                         	@
-you                        	only                       	@
-won’t                      	you                        	@
-be                         	won't                      	@
-cross                      	be                         	@
-with                       	cross                      	@
-me,                        	with                       	@
-Marilla.”                  	me,                        	@
-None                       	Marilla."                  	@
+Gil—@                      	Gil—                       	.
+everybody                  	everybody
+will                       	will
+get                        	get
+ahead                      	ahead
+of                         	of
+me                         	me
+in                         	in
+class.                     	class.
+Oh,                        	Oh,
+I                          	I
+am                         	am
+an                         	an
+afflicted                  	afflicted
+mortal.                    	mortal.
+But                        	But
+I’ll                       	I'll                       	.
+try                        	try
+to                         	to
+bear                       	bear
+it                         	it
+all                        	all
+bravely                    	bravely
+if                         	if
+only                       	only
+you                        	you
+won’t                      	won't                      	.
+be                         	be
+cross                      	cross
+with                       	with
+me,                        	me,
+Marilla.”                  	Marilla."                  	.
 “There,                    	"There,                    	.
 there,                     	there,
 I’m                        	I'm                        	.
@@ -85079,39 +85069,39 @@ to                         	to
 fail,                      	fail,
 especially                 	especially
 if                         	if
-Gil—if                     	Gil—                       	@
-the                        	if                         	@
-others                     	the                        	@
-passed.                    	others                     	@
-And                        	passed.                    	@
-I                          	And                        	@
-get                        	I                          	@
-so                         	get                        	@
-nervous                    	so                         	@
-in                         	nervous                    	@
-an                         	in                         	@
-examination                	an                         	@
-that                       	examination                	@
-I’m                        	that                       	@
-likely                     	I'm                        	@
-to                         	likely                     	@
-make                       	to                         	@
-a                          	make                       	@
-mess                       	a                          	@
-of                         	mess                       	@
-it.                        	of                         	@
-I                          	it.                        	@
-wish                       	I                          	@
-I                          	wish                       	@
-had                        	I                          	@
-nerves                     	had                        	@
-like                       	nerves                     	@
-Jane                       	like                       	@
-Andrews.                   	Jane                       	@
-Nothing                    	Andrews.                   	@
-rattles                    	Nothing                    	@
-her.”                      	rattles                    	@
-None                       	her."                      	@
+Gil—@                      	Gil—                       	.
+if                         	if
+the                        	the
+others                     	others
+passed.                    	passed.
+And                        	And
+I                          	I
+get                        	get
+so                         	so
+nervous                    	nervous
+in                         	in
+an                         	an
+examination                	examination
+that                       	that
+I’m                        	I'm                        	.
+likely                     	likely
+to                         	to
+make                       	make
+a                          	a
+mess                       	mess
+of                         	of
+it.                        	it.
+I                          	I
+wish                       	wish
+I                          	I
+had                        	had
+nerves                     	nerves
+like                       	like
+Jane                       	Jane
+Andrews.                   	Andrews.
+Nothing                    	Nothing
+rattles                    	rattles
+her.”                      	her."                      	.
 Anne                       	Anne
 sighed                     	sighed
 and,                       	and,
@@ -95221,79 +95211,79 @@ her                        	her
 elbows                     	elbows
 on                         	on
 the                        	the
-window                     	window
-sill,                      	sill,
-her                        	her
-soft                       	soft
-cheek                      	cheek
-laid                       	laid
-against                    	against
-her                        	her
-clasped                    	clasped
-hands,                     	hands,
-and                        	and
-her                        	her
-eyes                       	eyes
-filled                     	filled
-with                       	with
-visions,                   	visions,
-looked                     	looked
-out                        	out
-unheedingly                	unheedingly
-across                     	across
-city                       	city
-roof                       	roof
-and                        	and
-spire                      	spire
-to                         	to
-that                       	that
-glorious                   	glorious
-dome                       	dome
-of                         	of
-sunset                     	sunset
-sky                        	sky
-and                        	and
-wove                       	wove
-her                        	her
-dreams                     	dreams
-of                         	of
-a                          	a
-possible                   	possible
-future                     	future
-from                       	from
-the                        	the
-golden                     	golden
-tissue                     	tissue
-of                         	of
-youth’s                    	youth's                    	.
-own                        	own
-optimism.                  	optimism.
-All                        	All
-the                        	the
-Beyond                     	Beyond
-was                        	was
-hers                       	hers
-with                       	with
-its                        	its
-possibilities              	possibilities
-lurking                    	lurking
-rosily                     	rosily
-in                         	in
-the                        	the
-oncoming                   	oncoming
-years—each                 	years—each
-year                       	year
-a                          	a
-rose                       	rose
-of                         	of
-promise                    	promise
-to                         	to
-be                         	be
-woven                      	woven
-into                       	into
-an                         	an
-immortal                   	immortal
-chaplet.                   	chaplet.
+window@sill,               	window                     	@
+her                        	sill,                      	@
+soft                       	her                        	@
+cheek                      	soft                       	@
+laid                       	cheek                      	@
+against                    	laid                       	@
+her                        	against                    	@
+clasped                    	her                        	@
+hands,                     	clasped                    	@
+and                        	hands,                     	@
+her                        	and                        	@
+eyes                       	her                        	@
+filled                     	eyes                       	@
+with                       	filled                     	@
+visions,                   	with                       	@
+looked                     	visions,                   	@
+out                        	looked                     	@
+unheedingly                	out                        	@
+across                     	unheedingly                	@
+city                       	across                     	@
+roof                       	city                       	@
+and                        	roof                       	@
+spire                      	and                        	@
+to                         	spire                      	@
+that                       	to                         	@
+glorious                   	that                       	@
+dome                       	glorious                   	@
+of                         	dome                       	@
+sunset                     	of                         	@
+sky                        	sunset                     	@
+and                        	sky                        	@
+wove                       	and                        	@
+her                        	wove                       	@
+dreams                     	her                        	@
+of                         	dreams                     	@
+a                          	of                         	@
+possible                   	a                          	@
+future                     	possible                   	@
+from                       	future                     	@
+the                        	from                       	@
+golden                     	the                        	@
+tissue                     	golden                     	@
+of                         	tissue                     	@
+youth’s                    	of                         	@
+own                        	youth's                    	@
+optimism.                  	own                        	@
+All                        	optimism.                  	@
+the                        	All                        	@
+Beyond                     	the                        	@
+was                        	Beyond                     	@
+hers                       	was                        	@
+with                       	hers                       	@
+its                        	with                       	@
+possibilities              	its                        	@
+lurking                    	possibilities              	@
+rosily                     	lurking                    	@
+in                         	rosily                     	@
+the                        	in                         	@
+oncoming                   	the                        	@
+years—each                 	oncoming                   	@
+year                       	years—each                 	@
+a                          	year                       	@
+rose                       	a                          	@
+of                         	rose                       	@
+promise                    	of                         	@
+to                         	promise                    	@
+be                         	to                         	@
+woven                      	be                         	@
+into                       	woven                      	@
+an                         	into                       	@
+immortal                   	an                         	@
+chaplet.                   	immortal                   	@
+None                       	chaplet.                   	@
 CHAPTER                    	CHAPTER
 XXXVI.                     	XXXVI.
 The                        	The
@@ -95968,19 +95958,18 @@ house                      	rose                       	@
 rose                       	on                         	@
 on                         	the                        	@
 the                        	window                     	@
-window                     	sill,                      	@
-sill,                      	Anne                       	@
-Anne                       	looked                     	@
-looked                     	about                      	@
-about                      	her                        	@
-her                        	and                        	@
-and                        	drew                       	@
-drew                       	a                          	@
-a                          	long                       	@
-long                       	breath                     	@
-breath                     	of                         	@
-of                         	happiness.                 	@
-happiness.                 	None                       	@
+window@sill,               	sill,                      	@
+Anne                       	Anne
+looked                     	looked
+about                      	about
+her                        	her
+and                        	and
+drew                       	drew
+a                          	a
+long                       	long
+breath                     	breath
+of                         	of
+happiness.                 	happiness.
 “Oh,                       	"Oh,                       	.
 Diana,                     	Diana,
 it’s                       	it's                       	.
@@ -102452,4 +102441,4 @@ world,’”                   	world,'"                   	.
 whispered                  	whispered
 Anne                       	Anne
 softly.                    	softly.
-84243 7122 11089
+85577 7232 9634
