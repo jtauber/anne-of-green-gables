@@ -15,4 +15,3 @@ The equivalent files in `/text-prep/` are a custom-encoding of the texts such th
 I'm aligning the `gutenberg_0.txt` and `wikisource_0.txt` and, where they differ, checking the original Wikisource images of the L. C. Page & Company First Edition (Eleventh Impression) and the Penguin Classics Deluxe Edition (with A Note on the Text by Benjamin Lefebvre). I am also switching to the proper apostrophe and quotation marks which do not exist in the Wikisource transcription.
 
 The result will be the base text for marking up in TEI XML.
-
