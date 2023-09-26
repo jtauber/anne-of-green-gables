@@ -1,0 +1,22 @@
+<!ELEMENT text (div|pb)+>
+
+<!ELEMENT pb EMPTY>
+<!ATTLIST pb n CDATA #REQUIRED>
+
+<!ELEMENT div (head,(p|pb|quote|closer)+)>
+<!ATTLIST div 
+    type (chapter) #REQUIRED
+    n CDATA #REQUIRED>
+
+<!ELEMENT head (#PCDATA)>
+
+<!ELEMENT p (#PCDATA|sc|pb|i)*>
+
+<!ELEMENT sc (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT quote (l|p|closer)+>
+<!ELEMENT l (#PCDATA)>
+
+<!ELEMENT closer (#PCDATA|br|sc)*>
+<!ELEMENT br EMPTY>
