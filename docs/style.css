@@ -1,0 +1,77 @@
+text {
+    margin: 5em auto;
+    max-width: 40em;
+    font-family: Palatino;
+    position: relative;
+}
+
+p {
+    display: block;
+    text-align: justify;
+    text-indent: 1.5em;
+    line-height: 1.4;
+    position: relative;
+}
+p:first-of-type {
+    text-indent: 0;
+}
+
+sc {
+    text-transform: uppercase;
+    letter-spacing: 0.1ch;
+}
+
+i {
+    font-style: italic;
+}
+
+div {
+    display: block;
+    margin-top: 5em;
+}
+
+head {
+    display: block;
+    margin-bottom: 2em;
+    text-align: center;
+    letter-spacing: 0.1ch;
+    font-size: 14pt;
+    color: purple;
+}
+
+quote {
+    display: block;
+    margin: 2em 5em;
+}
+l {
+    display: block;
+    line-height: 1.4;
+}
+
+closer {
+    display: block;
+    line-height: 1.4;
+    text-align: right;
+    margin: 1em 0;
+}
+
+br {
+    display: block;
+}
+
+div::before {
+    content: 'Chapter ' attr(n);
+    display: block;
+    text-align: center;
+    letter-spacing: 0.1ch;
+    font-size: 14pt;
+    line-height: 2;
+}
+
+pb::before {
+    font-size: 10pt;
+    content: 'p.' attr(n);
+    color: #999;
+    position: absolute;
+    right: -5em;
+}

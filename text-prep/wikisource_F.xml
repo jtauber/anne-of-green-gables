@@ -1,4 +1,5 @@
 <?xml-model href="wikisource_F.dtd"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
 <text>
   <pb n="1"/>
   <div type="chapter" n="1">
