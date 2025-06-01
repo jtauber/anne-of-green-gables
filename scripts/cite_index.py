@@ -14,6 +14,12 @@ def get_text(el):
     return s
 
 
+def get_text(el):
+    return etree.tostring(el, encoding="unicode") or ""
+
+
+
+
 class CiteIndex:
 
     def output_para(self, kind, text):
